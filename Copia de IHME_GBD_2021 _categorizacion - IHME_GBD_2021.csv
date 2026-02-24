@@ -1,0 +1,1001 @@
+measure_id,measure_name,location_id,location_name,country_id,sex_id,sex_name,age_group_id,age_group_name,year_id,rei_id,pathogen,categoria,metric_id,metric,value,lower,upper
+1,Deaths,68,Republic of Korea,KOR,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,3.16E-06,2.50E-06,4.26E-06
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,3.22E-06,1.50E-06,5.99E-06
+1,Deaths,68,Republic of Korea,KOR,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,3.28E-06,2.60E-06,4.47E-06
+1,Deaths,68,Republic of Korea,KOR,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,3.60E-06,2.85E-06,4.80E-06
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2021,426,Polymicrobial,,1,Number,5.03E-06,2.56E-06,9.04E-06
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2020,426,Polymicrobial,,1,Number,5.41E-06,2.85E-06,9.46E-06
+1,Deaths,68,Republic of Korea,KOR,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,5.49E-06,4.35E-06,7.28E-06
+1,Deaths,68,Republic of Korea,KOR,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,5.49E-06,4.35E-06,7.28E-06
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2019,426,Polymicrobial,,1,Number,6.09E-06,3.22E-06,1.08E-05
+6,Incidence,68,Republic of Korea,KOR,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,6.17E-06,5.63E-06,6.74E-06
+6,Incidence,68,Republic of Korea,KOR,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,6.77E-06,6.10E-06,7.52E-06
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,8.53E-06,4.15E-06,1.58E-05
+1,Deaths,105,Antigua and Barbuda,ATG,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,8.60E-06,2.43E-06,4.13E-05
+6,Incidence,68,Republic of Korea,KOR,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,8.68E-06,7.88E-06,9.48E-06
+6,Incidence,68,Republic of Korea,KOR,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,8.68E-06,7.88E-06,9.48E-06
+1,Deaths,66,Brunei Darussalam,BRN,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,9.09E-06,1.40E-06,4.37E-05
+1,Deaths,393,Saint Kitts and Nevis,KNA,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,9.67E-06,2.84E-06,4.54E-05
+1,Deaths,110,Dominica,DMA,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,1.21E-05,3.39E-06,5.96E-05
+6,Incidence,68,Republic of Korea,KOR,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,1.32E-05,1.17E-05,1.48E-05
+1,Deaths,66,Brunei Darussalam,BRN,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,1.41E-05,2.35E-06,6.53E-05
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2021,414,Acinetobacter baumannii,,1,Number,1.45E-05,1.01E-05,2.05E-05
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2021,187,Influenza,,1,Number,1.52E-05,7.07E-06,2.81E-05
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,1990,426,Polymicrobial,,1,Number,1.55E-05,8.37E-06,2.66E-05
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2020,414,Acinetobacter baumannii,,1,Number,1.56E-05,1.10E-05,2.20E-05
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,1.59E-05,7.61E-06,2.88E-05
+1,Deaths,66,Brunei Darussalam,BRN,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,1.62E-05,2.71E-06,7.59E-05
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2021,426,Polymicrobial,,1,Number,1.64E-05,8.31E-06,2.89E-05
+1,Deaths,107,Barbados,BRB,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,1.66E-05,4.50E-06,8.00E-05
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2020,426,Polymicrobial,,1,Number,1.75E-05,9.05E-06,3.05E-05
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2019,414,Acinetobacter baumannii,,1,Number,1.76E-05,1.26E-05,2.47E-05
+1,Deaths,116,Saint Lucia,LCA,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,1.81E-05,5.40E-06,8.89E-05
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2019,426,Polymicrobial,,1,Number,1.83E-05,9.34E-06,3.19E-05
+1,Deaths,112,Grenada,GRD,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,1.88E-05,5.49E-06,9.09E-05
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2019,426,Polymicrobial,,1,Number,1.95E-05,1.00E-05,3.39E-05
+6,Incidence,68,Republic of Korea,KOR,3,Both,1,Under 5,2021,187,Influenza,,2,Percent,2.03E-05,1.87E-05,2.20E-05
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2021,415,Chlamydia spp,,1,Number,2.10E-05,1.49E-05,2.93E-05
+1,Deaths,114,Haiti,HTI,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,2.16E-05,6.22E-06,0.0001027
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,1990,426,Polymicrobial,,1,Number,2.22E-05,1.20E-05,3.92E-05
+1,Deaths,117,Saint Vincent and the Grenadines,VCT,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,2.23E-05,6.76E-06,0.000107141
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2020,415,Chlamydia spp,,1,Number,2.27E-05,1.62E-05,3.13E-05
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2021,418,Fungus,,1,Number,2.29E-05,1.23E-05,3.84E-05
+1,Deaths,66,Brunei Darussalam,BRN,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,2.30E-05,3.78E-06,0.000108464
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2021,414,Acinetobacter baumannii,,1,Number,2.32E-05,1.03E-05,4.85E-05
+6,Incidence,68,Republic of Korea,KOR,3,Both,23,5-14 years,2021,187,Influenza,,2,Percent,2.40E-05,2.22E-05,2.59E-05
+6,Incidence,68,Republic of Korea,KOR,3,Both,24,15-49 years,2021,187,Influenza,,2,Percent,2.40E-05,2.22E-05,2.59E-05
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2021,416,Enterobacter spp,,1,Number,2.40E-05,1.66E-05,3.38E-05
+1,Deaths,114,Haiti,HTI,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,2.48E-05,7.03E-06,0.0001179
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2019,415,Chlamydia spp,,1,Number,2.55E-05,1.85E-05,3.49E-05
+6,Incidence,68,Republic of Korea,KOR,3,Both,25,50-69 years,2021,187,Influenza,,2,Percent,2.57E-05,2.39E-05,2.78E-05
+1,Deaths,66,Brunei Darussalam,BRN,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,2.58E-05,4.33E-06,0.000121186
+1,Deaths,66,Brunei Darussalam,BRN,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,2.58E-05,4.33E-06,0.000121186
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2020,416,Enterobacter spp,,1,Number,2.59E-05,1.85E-05,3.61E-05
+1,Deaths,67,Japan,JPN,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,2.60E-05,1.11E-06,0.000147048
+1,Deaths,67,Japan,JPN,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,2.66E-05,1.15E-06,0.000150862
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2019,414,Acinetobacter baumannii,,1,Number,2.81E-05,1.98E-05,3.86E-05
+6,Incidence,66,Brunei Darussalam,BRN,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,2.90E-05,5.23E-06,0.000130885
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2019,416,Enterobacter spp,,1,Number,2.92E-05,2.12E-05,4.09E-05
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2021,414,Acinetobacter baumannii,,1,Number,2.93E-05,2.11E-05,3.99E-05
+1,Deaths,67,Japan,JPN,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,2.97E-05,1.29E-06,0.000164796
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2020,418,Fungus,,1,Number,2.99E-05,1.78E-05,4.70E-05
+1,Deaths,68,Republic of Korea,KOR,3,Both,25,50-69 years,2021,187,Influenza,,2,Percent,3.00E-05,2.42E-05,4.05E-05
+1,Deaths,68,Republic of Korea,KOR,3,Both,1,Under 5,2021,187,Influenza,,2,Percent,3.04E-05,2.42E-05,4.13E-05
+6,Incidence,68,Republic of Korea,KOR,3,Both,22,All Ages,2021,187,Influenza,,2,Percent,3.07E-05,2.85E-05,3.30E-05
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2020,426,Polymicrobial,,1,Number,3.08E-05,1.60E-05,5.53E-05
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2020,414,Acinetobacter baumannii,,1,Number,3.13E-05,2.27E-05,4.16E-05
+6,Incidence,66,Brunei Darussalam,BRN,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,3.22E-05,5.84E-06,0.000144078
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2021,426,Polymicrobial,,1,Number,3.23E-05,1.68E-05,5.80E-05
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2021,187,Influenza,,1,Number,3.32E-05,1.40E-05,6.68E-05
+1,Deaths,68,Republic of Korea,KOR,3,Both,23,5-14 years,2021,187,Influenza,,2,Percent,3.33E-05,2.69E-05,4.42E-05
+1,Deaths,68,Republic of Korea,KOR,3,Both,24,15-49 years,2021,187,Influenza,,2,Percent,3.33E-05,2.69E-05,4.42E-05
+1,Deaths,113,Guyana,GUY,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,3.34E-05,9.57E-06,0.000159151
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2019,418,Fungus,,1,Number,3.44E-05,2.11E-05,5.28E-05
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2019,414,Acinetobacter baumannii,,1,Number,3.48E-05,2.56E-05,4.55E-05
+1,Deaths,380,Palau,PLW,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,3.67E-05,1.78E-05,6.38E-05
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2020,414,Acinetobacter baumannii,,1,Number,3.71E-05,1.86E-05,7.10E-05
+6,Incidence,68,Republic of Korea,KOR,3,Both,26,70+ years,2021,187,Influenza,,2,Percent,3.80E-05,3.54E-05,4.07E-05
+1,Deaths,114,Haiti,HTI,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,3.84E-05,1.10E-05,0.000178906
+1,Deaths,114,Haiti,HTI,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,3.84E-05,1.10E-05,0.000178906
+1,Deaths,111,Dominican Republic,DOM,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,3.89E-05,1.12E-05,0.000184907
+1,Deaths,113,Guyana,GUY,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,3.89E-05,1.11E-05,0.000186008
+1,Deaths,106,Bahamas,BHS,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,3.91E-05,9.91E-06,0.00018758
+1,Deaths,118,Suriname,SUR,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,4.01E-05,1.15E-05,0.000191193
+1,Deaths,110,Dominica,DMA,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,4.11E-05,1.18E-05,0.000194985
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,1990,426,Polymicrobial,,1,Number,4.13E-05,2.24E-05,7.33E-05
+1,Deaths,68,Republic of Korea,KOR,3,Both,22,All Ages,2021,187,Influenza,,2,Percent,4.14E-05,3.36E-05,5.52E-05
+1,Deaths,108,Belize,BLZ,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,4.15E-05,1.19E-05,0.000196623
+1,Deaths,119,Trinidad and Tobago,TTO,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,4.15E-05,1.19E-05,0.000197322
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2021,414,Acinetobacter baumannii,,1,Number,4.20E-05,1.30E-05,9.20E-05
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2021,417,Escherichia coli,,1,Number,4.22E-05,3.02E-05,5.82E-05
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2020,190,Respiratory syncytial virus,,1,Number,4.23E-05,2.76E-05,6.24E-05
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2019,414,Acinetobacter baumannii,,1,Number,4.24E-05,2.14E-05,8.09E-05
+1,Deaths,68,Republic of Korea,KOR,3,Both,26,70+ years,2021,187,Influenza,,2,Percent,4.26E-05,3.46E-05,5.70E-05
+1,Deaths,117,Saint Vincent and the Grenadines,VCT,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,4.29E-05,1.22E-05,0.000203789
+1,Deaths,106,Bahamas,BHS,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,4.35E-05,1.25E-05,0.000207426
+6,Incidence,114,Haiti,HTI,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,4.37E-05,1.45E-05,0.000219478
+6,Incidence,66,Brunei Darussalam,BRN,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,4.40E-05,7.94E-06,0.000202341
+6,Incidence,66,Brunei Darussalam,BRN,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,4.40E-05,7.94E-06,0.000202341
+1,Deaths,111,Dominican Republic,DOM,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,4.49E-05,1.28E-05,0.000211641
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2020,417,Escherichia coli,,1,Number,4.55E-05,3.32E-05,6.21E-05
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2021,418,Fungus,,1,Number,4.55E-05,2.45E-05,7.21E-05
+1,Deaths,112,Grenada,GRD,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,4.56E-05,1.30E-05,0.000216176
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2021,393,Group B streptococcus,,1,Number,4.61E-05,3.24E-05,6.37E-05
+1,Deaths,118,Suriname,SUR,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,4.63E-05,1.33E-05,0.000219293
+1,Deaths,416,Tuvalu,TUV,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,4.64E-05,2.21E-05,7.84E-05
+1,Deaths,82,Greece,GRC,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,4.66E-05,8.78E-06,0.000144738
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2021,426,Polymicrobial,,1,Number,4.70E-05,1.78E-05,9.26E-05
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2020,414,Acinetobacter baumannii,,1,Number,4.72E-05,3.52E-05,6.37E-05
+1,Deaths,110,Dominica,DMA,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,4.73E-05,1.35E-05,0.000222873
+1,Deaths,107,Barbados,BRB,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,4.75E-05,1.38E-05,0.000225552
+1,Deaths,67,Japan,JPN,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,4.75E-05,2.01E-06,0.000256881
+1,Deaths,67,Japan,JPN,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,4.75E-05,2.01E-06,0.000256881
+1,Deaths,108,Belize,BLZ,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,4.78E-05,1.37E-05,0.000224511
+1,Deaths,116,Saint Lucia,LCA,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,4.79E-05,1.37E-05,0.000227031
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2021,419,Haemophilus influenzae,,1,Number,4.80E-05,3.40E-05,6.66E-05
+1,Deaths,119,Trinidad and Tobago,TTO,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,4.80E-05,1.37E-05,0.000227183
+1,Deaths,82,Greece,GRC,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,4.84E-05,9.12E-06,0.000150118
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2021,418,Fungus,,1,Number,4.87E-05,3.46E-05,6.79E-05
+1,Deaths,115,Jamaica,JAM,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,4.90E-05,1.40E-05,0.00023262
+6,Incidence,114,Haiti,HTI,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,4.93E-05,1.63E-05,0.000245923
+1,Deaths,117,Saint Vincent and the Grenadines,VCT,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,4.94E-05,1.42E-05,0.000233112
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2021,414,Acinetobacter baumannii,,1,Number,4.95E-05,3.62E-05,6.70E-05
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2020,393,Group B streptococcus,,1,Number,4.96E-05,3.58E-05,6.83E-05
+1,Deaths,68,Republic of Korea,KOR,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,4.98E-05,3.50E-05,7.46E-05
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2021,415,Chlamydia spp,,1,Number,5.05E-05,2.89E-05,8.00E-05
+1,Deaths,106,Bahamas,BHS,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,5.05E-05,1.44E-05,0.000240625
+6,Incidence,67,Japan,JPN,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,5.07E-05,2.20E-06,0.000295485
+1,Deaths,396,San Marino,SMR,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,1,Number,5.08E-05,1.88E-05,0.000101166
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2019,417,Escherichia coli,,1,Number,5.12E-05,3.78E-05,7.02E-05
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2020,419,Haemophilus influenzae,,1,Number,5.17E-05,3.77E-05,7.03E-05
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2020,418,Fungus,,1,Number,5.25E-05,3.77E-05,7.22E-05
+1,Deaths,112,Grenada,GRD,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,5.25E-05,1.51E-05,0.000246623
+1,Deaths,105,Antigua and Barbuda,ATG,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,5.27E-05,1.51E-05,0.000250432
+1,Deaths,82,Greece,GRC,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,5.37E-05,1.01E-05,0.000164286
+1,Deaths,10,Cambodia,KHM,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,5.43E-05,1.73E-05,0.000120073
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,1990,414,Acinetobacter baumannii,,1,Number,5.50E-05,3.98E-05,7.41E-05
+1,Deaths,393,Saint Kitts and Nevis,KNA,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,5.50E-05,1.58E-05,0.000260815
+1,Deaths,107,Barbados,BRB,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,5.52E-05,1.58E-05,0.000262058
+1,Deaths,116,Saint Lucia,LCA,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,5.52E-05,1.58E-05,0.000258546
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2021,187,Influenza,,1,Number,5.55E-05,2.68E-05,0.000101906
+6,Incidence,67,Japan,JPN,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,5.56E-05,2.46E-06,0.000317439
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2019,393,Group B streptococcus,,1,Number,5.59E-05,4.07E-05,7.69E-05
+1,Deaths,115,Jamaica,JAM,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,5.65E-05,1.62E-05,0.000265032
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,1990,416,Enterobacter spp,,1,Number,5.67E-05,4.14E-05,7.58E-05
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2021,415,Chlamydia spp,,1,Number,5.76E-05,4.13E-05,7.70E-05
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2019,419,Haemophilus influenzae,,1,Number,5.83E-05,4.35E-05,7.86E-05
+1,Deaths,59,Latvia,LVA,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,5.91E-05,2.39E-06,0.000314582
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2019,418,Fungus,,1,Number,5.91E-05,4.33E-05,8.15E-05
+1,Deaths,105,Antigua and Barbuda,ATG,3,Both,23,5-14 years,2021,187,Influenza,,1,Number,6.07E-05,1.74E-05,0.000292287
+1,Deaths,105,Antigua and Barbuda,ATG,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,6.07E-05,1.73E-05,0.000283993
+1,Deaths,108,Belize,BLZ,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,6.10E-05,1.68E-05,0.000285216
+1,Deaths,66,Brunei Darussalam,BRN,3,Both,23,5-14 years,2021,187,Influenza,,1,Number,6.13E-05,9.34E-06,0.000294879
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2020,415,Chlamydia spp,,1,Number,6.14E-05,4.50E-05,8.06E-05
+1,Deaths,69,Singapore,SGP,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,6.14E-05,6.76E-06,0.00021247
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2021,416,Enterobacter spp,,1,Number,6.20E-05,3.41E-05,0.000103619
+1,Deaths,109,Cuba,CUB,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,6.25E-05,1.79E-05,0.00029652
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2019,415,Chlamydia spp,,1,Number,6.27E-05,4.60E-05,8.36E-05
+1,Deaths,107,Barbados,BRB,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,6.27E-05,1.86E-05,0.000300437
+1,Deaths,10,Cambodia,KHM,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,6.28E-05,1.94E-05,0.000137408
+1,Deaths,393,Saint Kitts and Nevis,KNA,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,6.33E-05,1.81E-05,0.000296018
+6,Incidence,95,United Kingdom,GBR,3,Both,1,Under 5,2019,414,Acinetobacter baumannii,,2,Percent,6.38E-05,4.08E-05,9.86E-05
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2021,421,Legionella spp,,1,Number,6.47E-05,3.52E-05,0.000105735
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2021,424,Other bacterial pathogen,,1,Number,6.53E-05,3.69E-05,0.000104638
+1,Deaths,393,Saint Kitts and Nevis,KNA,3,Both,23,5-14 years,2021,187,Influenza,,1,Number,6.58E-05,1.94E-05,0.000316035
+1,Deaths,69,Singapore,SGP,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,6.60E-05,7.24E-06,0.000228492
+6,Incidence,114,Haiti,HTI,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,6.66E-05,2.22E-05,0.000329466
+6,Incidence,114,Haiti,HTI,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,6.66E-05,2.22E-05,0.000329466
+1,Deaths,117,Saint Vincent and the Grenadines,VCT,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,6.72E-05,2.02E-05,0.000326865
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2019,415,Chlamydia spp,,1,Number,6.83E-05,5.09E-05,8.91E-05
+1,Deaths,113,Guyana,GUY,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,6.84E-05,1.97E-05,0.000316433
+1,Deaths,113,Guyana,GUY,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,6.84E-05,1.97E-05,0.000316433
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2021,424,Other bacterial pathogen,,1,Number,6.98E-05,4.84E-05,9.81E-05
+1,Deaths,69,Singapore,SGP,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,7.03E-05,7.70E-06,0.00024048
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2019,418,Fungus,,1,Number,7.10E-05,4.13E-05,0.000112616
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2020,415,Chlamydia spp,,1,Number,7.12E-05,4.76E-05,0.000106018
+1,Deaths,116,Saint Lucia,LCA,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,7.12E-05,2.15E-05,0.000342237
+6,Incidence,113,Guyana,GUY,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,7.16E-05,2.43E-05,0.000356468
+1,Deaths,109,Cuba,CUB,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,7.19E-05,2.06E-05,0.000335849
+1,Deaths,111,Dominican Republic,DOM,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,7.20E-05,2.07E-05,0.000339401
+1,Deaths,111,Dominican Republic,DOM,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,7.20E-05,2.07E-05,0.000339401
+1,Deaths,109,Cuba,CUB,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,7.28E-05,2.10E-05,0.000344284
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2021,187,Influenza,,1,Number,7.34E-05,2.92E-05,0.000141857
+1,Deaths,68,Republic of Korea,KOR,3,Both,1,Under 5,2021,190,Respiratory syncytial virus,,2,Percent,7.43E-05,5.93E-05,9.94E-05
+6,Incidence,67,Japan,JPN,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,7.44E-05,3.16E-06,0.000432844
+6,Incidence,67,Japan,JPN,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,7.44E-05,3.16E-06,0.000432844
+1,Deaths,118,Suriname,SUR,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,7.46E-05,2.14E-05,0.00035038
+1,Deaths,118,Suriname,SUR,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,7.46E-05,2.14E-05,0.00035038
+1,Deaths,110,Dominica,DMA,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,7.48E-05,2.14E-05,0.000351821
+1,Deaths,110,Dominica,DMA,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,7.48E-05,2.14E-05,0.000351821
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2020,424,Other bacterial pathogen,,1,Number,7.51E-05,5.28E-05,0.000103757
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2020,418,Fungus,,1,Number,7.52E-05,4.59E-05,0.000109815
+1,Deaths,108,Belize,BLZ,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,7.59E-05,2.18E-05,0.000356887
+1,Deaths,108,Belize,BLZ,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,7.59E-05,2.18E-05,0.000356887
+1,Deaths,110,Dominica,DMA,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,1,Number,7.61E-05,2.32E-05,0.000382216
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,1990,414,Acinetobacter baumannii,,1,Number,7.64E-05,5.33E-05,0.000104853
+6,Incidence,95,United Kingdom,GBR,3,Both,1,Under 5,2020,414,Acinetobacter baumannii,,2,Percent,7.70E-05,4.93E-05,0.000120728
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2020,426,Polymicrobial,,1,Number,7.82E-05,3.25E-05,0.000150321
+1,Deaths,112,Grenada,GRD,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,7.85E-05,2.31E-05,0.000373701
+1,Deaths,119,Trinidad and Tobago,TTO,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,7.89E-05,2.27E-05,0.000369636
+1,Deaths,119,Trinidad and Tobago,TTO,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,7.89E-05,2.27E-05,0.000369636
+1,Deaths,50,Montenegro,MNE,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,7.93E-05,2.80E-05,0.00017821
+1,Deaths,396,San Marino,SMR,3,Both,24,15-49 years,2021,426,Polymicrobial,,1,Number,7.93E-05,3.17E-05,0.000154898
+1,Deaths,87,Luxembourg,LUX,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,7.97E-05,4.04E-05,0.000138844
+1,Deaths,117,Saint Vincent and the Grenadines,VCT,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,7.97E-05,2.29E-05,0.000374086
+1,Deaths,117,Saint Vincent and the Grenadines,VCT,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,7.97E-05,2.29E-05,0.000374086
+6,Incidence,111,Dominican Republic,DOM,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,7.98E-05,2.71E-05,0.000400504
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2021,416,Enterobacter spp,,1,Number,8.02E-05,5.74E-05,0.000107893
+1,Deaths,119,Trinidad and Tobago,TTO,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,8.06E-05,2.37E-05,0.000381274
+6,Incidence,113,Guyana,GUY,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,8.11E-05,2.72E-05,0.000400642
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2019,415,Chlamydia spp,,1,Number,8.17E-05,5.76E-05,0.000116375
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2019,418,Fungus,,1,Number,8.33E-05,5.13E-05,0.000123034
+6,Incidence,118,Suriname,SUR,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,8.38E-05,2.83E-05,0.00042177
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,1990,416,Enterobacter spp,,1,Number,8.45E-05,5.99E-05,0.000113657
+1,Deaths,18,Thailand,THA,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,8.46E-05,1.22E-05,0.000250376
+1,Deaths,115,Jamaica,JAM,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,8.46E-05,2.49E-05,0.000407042
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2019,424,Other bacterial pathogen,,1,Number,8.47E-05,6.04E-05,0.000115211
+6,Incidence,110,Dominica,DMA,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,8.48E-05,2.87E-05,0.000425773
+1,Deaths,59,Latvia,LVA,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,8.49E-05,3.41E-06,0.000461735
+1,Deaths,112,Grenada,GRD,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,8.51E-05,2.45E-05,0.000399318
+1,Deaths,112,Grenada,GRD,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,8.51E-05,2.45E-05,0.000399318
+6,Incidence,108,Belize,BLZ,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,8.53E-05,2.89E-05,0.000427986
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2020,416,Enterobacter spp,,1,Number,8.55E-05,6.19E-05,0.000115329
+6,Incidence,119,Trinidad and Tobago,TTO,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,8.62E-05,2.93E-05,0.000428756
+1,Deaths,106,Bahamas,BHS,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,8.62E-05,2.49E-05,0.000405155
+1,Deaths,106,Bahamas,BHS,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,8.62E-05,2.49E-05,0.000405155
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2020,416,Enterobacter spp,,1,Number,8.68E-05,5.26E-05,0.000137093
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2019,190,Respiratory syncytial virus,,1,Number,8.71E-05,6.39E-05,0.00011808
+1,Deaths,106,Bahamas,BHS,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,8.75E-05,2.58E-05,0.000417884
+1,Deaths,116,Saint Lucia,LCA,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,8.77E-05,2.51E-05,0.000411572
+1,Deaths,116,Saint Lucia,LCA,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,8.77E-05,2.51E-05,0.000411572
+1,Deaths,105,Antigua and Barbuda,ATG,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,8.78E-05,2.59E-05,0.000411833
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2021,190,Respiratory syncytial virus,,1,Number,8.79E-05,3.72E-05,0.000178388
+1,Deaths,110,Dominica,DMA,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,8.87E-05,2.64E-05,0.000425975
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2019,426,Polymicrobial,,1,Number,8.91E-05,3.83E-05,0.000169546
+6,Incidence,117,Saint Vincent and the Grenadines,VCT,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,8.92E-05,3.02E-05,0.000447611
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2020,424,Other bacterial pathogen,,1,Number,8.92E-05,5.61E-05,0.00013906
+6,Incidence,111,Dominican Republic,DOM,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,8.95E-05,3.00E-05,0.000444567
+1,Deaths,115,Jamaica,JAM,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,9.02E-05,2.58E-05,0.000423249
+1,Deaths,115,Jamaica,JAM,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,9.02E-05,2.58E-05,0.000423249
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2019,416,Enterobacter spp,,1,Number,9.03E-05,6.58E-05,0.000119998
+1,Deaths,87,Luxembourg,LUX,3,Both,23,5-14 years,2019,426,Polymicrobial,,1,Number,9.03E-05,4.73E-05,0.000151986
+1,Deaths,82,Greece,GRC,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,9.03E-05,1.69E-05,0.000278532
+1,Deaths,82,Greece,GRC,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,9.03E-05,1.69E-05,0.000278532
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2019,414,Acinetobacter baumannii,,1,Number,9.05E-05,3.98E-05,0.000184069
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2020,414,Acinetobacter baumannii,,1,Number,9.09E-05,4.26E-05,0.000171352
+1,Deaths,393,Saint Kitts and Nevis,KNA,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,1,Number,9.20E-05,2.85E-05,0.000448659
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2021,415,Chlamydia spp,,1,Number,9.20E-05,4.84E-05,0.000140934
+6,Incidence,106,Bahamas,BHS,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,9.24E-05,3.14E-05,0.00045903
+1,Deaths,396,San Marino,SMR,3,Both,24,15-49 years,2020,426,Polymicrobial,,1,Number,9.34E-05,4.21E-05,0.000174466
+1,Deaths,52,Romania,ROU,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,9.40E-05,1.22E-05,0.000332133
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2020,421,Legionella spp,,1,Number,9.41E-05,5.87E-05,0.000144701
+6,Incidence,118,Suriname,SUR,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,9.43E-05,3.17E-05,0.000463069
+6,Incidence,112,Grenada,GRD,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,9.44E-05,3.19E-05,0.000472798
+1,Deaths,107,Barbados,BRB,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,9.44E-05,2.71E-05,0.000441234
+1,Deaths,107,Barbados,BRB,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,9.44E-05,2.71E-05,0.000441234
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2021,426,Polymicrobial,,1,Number,9.45E-05,2.59E-05,0.000213174
+6,Incidence,82,Greece,GRC,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,9.50E-05,1.80E-05,0.00029515
+6,Incidence,110,Dominica,DMA,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,9.51E-05,3.19E-05,0.00046906
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2019,416,Enterobacter spp,,1,Number,9.51E-05,6.91E-05,0.000125412
+1,Deaths,118,Suriname,SUR,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,9.55E-05,2.67E-05,0.000464246
+6,Incidence,108,Belize,BLZ,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,9.56E-05,3.21E-05,0.000472266
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,1990,415,Chlamydia spp,,1,Number,9.57E-05,7.07E-05,0.000126379
+1,Deaths,18,Thailand,THA,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,9.58E-05,1.46E-05,0.000290009
+6,Incidence,119,Trinidad and Tobago,TTO,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,9.67E-05,3.26E-05,0.000477807
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2019,414,Acinetobacter baumannii,,1,Number,9.71E-05,4.48E-05,0.000181325
+1,Deaths,105,Antigua and Barbuda,ATG,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,9.75E-05,2.79E-05,0.000457099
+1,Deaths,105,Antigua and Barbuda,ATG,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,9.75E-05,2.79E-05,0.000457099
+1,Deaths,59,Latvia,LVA,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,9.84E-05,4.08E-06,0.000527874
+6,Incidence,67,Japan,JPN,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,9.87E-05,4.30E-06,0.000551429
+6,Incidence,116,Saint Lucia,LCA,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,9.88E-05,3.35E-05,0.000494956
+1,Deaths,369,Nauru,NRU,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,9.88E-05,4.65E-05,0.000176719
+1,Deaths,393,Saint Kitts and Nevis,KNA,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,9.88E-05,2.97E-05,0.000468116
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2019,416,Enterobacter spp,,1,Number,9.96E-05,6.42E-05,0.000151578
+6,Incidence,117,Saint Vincent and the Grenadines,VCT,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000100078,3.36E-05,0.000493003
+1,Deaths,105,Antigua and Barbuda,ATG,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,1,Number,0.000100531,2.85E-05,0.000466291
+1,Deaths,83,Iceland,ISL,3,Both,23,5-14 years,2019,426,Polymicrobial,,1,Number,0.000100804,5.52E-05,0.000173188
+6,Incidence,107,Barbados,BRB,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000100831,3.44E-05,0.000500911
+1,Deaths,10,Cambodia,KHM,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000100977,3.24E-05,0.000223576
+1,Deaths,10,Cambodia,KHM,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000100977,3.24E-05,0.000223576
+1,Deaths,393,Saint Kitts and Nevis,KNA,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000101215,2.90E-05,0.000474635
+1,Deaths,393,Saint Kitts and Nevis,KNA,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000101215,2.90E-05,0.000474635
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2021,420,Klebsiella pneumoniae,,1,Number,0.000101401,7.19E-05,0.000138927
+6,Incidence,115,Jamaica,JAM,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000101452,3.44E-05,0.000507865
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2019,424,Other bacterial pathogen,,1,Number,0.000102588,6.67E-05,0.000152579
+6,Incidence,68,Republic of Korea,KOR,3,Both,1,Under 5,2021,190,Respiratory syncytial virus,,2,Percent,0.000103372,9.51E-05,0.000111928
+6,Incidence,95,United Kingdom,GBR,3,Both,1,Under 5,2021,414,Acinetobacter baumannii,,2,Percent,0.000103414,6.70E-05,0.000160944
+6,Incidence,106,Bahamas,BHS,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000103803,3.51E-05,0.000513249
+1,Deaths,18,Thailand,THA,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000104342,1.49E-05,0.000320079
+6,Incidence,82,Greece,GRC,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000104874,1.97E-05,0.000331682
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2020,415,Chlamydia spp,,1,Number,0.000105225,7.95E-05,0.000138129
+6,Incidence,112,Grenada,GRD,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000105737,3.56E-05,0.000522259
+1,Deaths,110,Dominica,DMA,3,Both,23,5-14 years,2021,187,Influenza,,1,Number,0.000106374,2.97E-05,0.000536055
+6,Incidence,10,Cambodia,KHM,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000107338,3.60E-05,0.000224113
+1,Deaths,52,Romania,ROU,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00010781,1.38E-05,0.000378646
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2019,421,Legionella spp,,1,Number,0.000107815,6.90E-05,0.00015874
+1,Deaths,95,United Kingdom,GBR,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000108006,5.39E-05,0.000182315
+6,Incidence,105,Antigua and Barbuda,ATG,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000108714,3.69E-05,0.000544056
+1,Deaths,72,New Zealand,NZL,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000108806,2.86E-05,0.000246589
+1,Deaths,69,Singapore,SGP,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000108954,1.19E-05,0.000378528
+1,Deaths,69,Singapore,SGP,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000108954,1.19E-05,0.000378528
+1,Deaths,71,Australia,AUS,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000109114,2.86E-05,0.000248118
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2020,420,Klebsiella pneumoniae,,1,Number,0.000109196,7.96E-05,0.000148784
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2021,415,Chlamydia spp,,1,Number,0.000110287,8.34E-05,0.000144308
+1,Deaths,119,Trinidad and Tobago,TTO,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,0.000110481,3.34E-05,0.000531797
+6,Incidence,116,Saint Lucia,LCA,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000110636,3.72E-05,0.00054741
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2020,190,Respiratory syncytial virus,,1,Number,0.00011108,7.49E-05,0.000157783
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2021,187,Influenza,,1,Number,0.000111627,5.27E-05,0.000198641
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2021,393,Group B streptococcus,,1,Number,0.00011268,6.57E-05,0.000178394
+6,Incidence,107,Barbados,BRB,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000113018,3.82E-05,0.000560634
+6,Incidence,393,Saint Kitts and Nevis,KNA,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000113166,3.83E-05,0.000566184
+1,Deaths,82,Greece,GRC,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,0.000113566,2.06E-05,0.000351452
+6,Incidence,115,Jamaica,JAM,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000113569,3.82E-05,0.000561594
+1,Deaths,109,Cuba,CUB,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000114577,3.29E-05,0.000535869
+1,Deaths,109,Cuba,CUB,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000114577,3.29E-05,0.000535869
+1,Deaths,95,United Kingdom,GBR,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000115399,5.73E-05,0.000195425
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2021,423,Mycoplasma,,1,Number,0.000116797,8.25E-05,0.00015973
+1,Deaths,35,Georgia,GEO,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000117743,2.50E-05,0.000391324
+1,Deaths,118,Suriname,SUR,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.00011898,3.36E-05,0.000582
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,1990,393,Group B streptococcus,,1,Number,0.000119902,9.08E-05,0.000159186
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,1990,417,Escherichia coli,,1,Number,0.000120496,9.01E-05,0.000156436
+6,Incidence,10,Cambodia,KHM,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000120791,4.04E-05,0.000249366
+6,Incidence,105,Antigua and Barbuda,ATG,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000121472,4.08E-05,0.000602317
+6,Incidence,113,Guyana,GUY,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.0001217,4.08E-05,0.000603266
+6,Incidence,113,Guyana,GUY,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.0001217,4.08E-05,0.000603266
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2021,421,Legionella spp,,1,Number,0.000122129,8.74E-05,0.000167821
+6,Incidence,66,Brunei Darussalam,BRN,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000122196,2.18E-05,0.000563972
+1,Deaths,71,Australia,AUS,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000122459,3.24E-05,0.000279062
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2019,420,Klebsiella pneumoniae,,1,Number,0.000123068,8.96E-05,0.000168671
+6,Incidence,111,Dominican Republic,DOM,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000123216,4.16E-05,0.000608045
+6,Incidence,111,Dominican Republic,DOM,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000123216,4.16E-05,0.000608045
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2021,424,Other bacterial pathogen,,1,Number,0.000123945,6.74E-05,0.000198023
+6,Incidence,95,United Kingdom,GBR,3,Both,1,Under 5,2019,426,Polymicrobial,,2,Percent,0.000125694,7.15E-05,0.000205991
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2020,423,Mycoplasma,,1,Number,0.000125777,9.09E-05,0.000171515
+1,Deaths,72,New Zealand,NZL,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000126149,3.21E-05,0.000281633
+6,Incidence,393,Saint Kitts and Nevis,KNA,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000126328,4.25E-05,0.000625571
+1,Deaths,71,Australia,AUS,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000126831,3.24E-05,0.000283185
+1,Deaths,87,Luxembourg,LUX,3,Both,23,5-14 years,2019,414,Acinetobacter baumannii,,1,Number,0.000127773,9.99E-05,0.0001619
+6,Incidence,109,Cuba,CUB,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000128029,4.33E-05,0.000639988
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2021,421,Legionella spp,,1,Number,0.000128336,6.22E-05,0.000206696
+1,Deaths,108,Belize,BLZ,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000128516,3.64E-05,0.000600011
+1,Deaths,77,Cyprus,CYP,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,0.000128879,6.24E-05,0.000227543
+6,Incidence,110,Dominica,DMA,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000129145,4.36E-05,0.00064417
+6,Incidence,110,Dominica,DMA,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000129145,4.36E-05,0.00064417
+6,Incidence,118,Suriname,SUR,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000130304,4.39E-05,0.000650764
+6,Incidence,118,Suriname,SUR,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000130304,4.39E-05,0.000650764
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2021,416,Enterobacter spp,,1,Number,0.00013045,6.88E-05,0.000202451
+6,Incidence,108,Belize,BLZ,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000130491,4.41E-05,0.000649402
+6,Incidence,108,Belize,BLZ,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000130491,4.41E-05,0.000649402
+1,Deaths,111,Dominican Republic,DOM,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.00013076,3.43E-05,0.000640576
+6,Incidence,66,Brunei Darussalam,BRN,3,Both,1,Under 5,2021,187,Influenza,,2,Percent,0.000130926,2.37E-05,0.000597949
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2020,421,Legionella spp,,1,Number,0.000131521,9.54E-05,0.000179145
+1,Deaths,72,New Zealand,NZL,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000131906,3.44E-05,0.000299835
+1,Deaths,59,Latvia,LVA,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000132934,5.47E-06,0.000724586
+6,Incidence,69,Singapore,SGP,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000134551,1.49E-05,0.000469912
+1,Deaths,18,Thailand,THA,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000134792,1.92E-05,0.000410136
+1,Deaths,18,Thailand,THA,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000134792,1.92E-05,0.000410136
+6,Incidence,66,Brunei Darussalam,BRN,3,Both,23,5-14 years,2021,187,Influenza,,2,Percent,0.0001351,2.46E-05,0.000612508
+6,Incidence,66,Brunei Darussalam,BRN,3,Both,24,15-49 years,2021,187,Influenza,,2,Percent,0.0001351,2.46E-05,0.000612508
+6,Incidence,119,Trinidad and Tobago,TTO,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000135544,4.58E-05,0.000664979
+6,Incidence,119,Trinidad and Tobago,TTO,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000135544,4.58E-05,0.000664979
+1,Deaths,35,Georgia,GEO,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000135552,2.86E-05,0.000447833
+1,Deaths,72,New Zealand,NZL,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,0.000136965,3.57E-05,0.000308808
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,1990,415,Chlamydia spp,,1,Number,0.000137035,0.000100089,0.000179021
+1,Deaths,95,United Kingdom,GBR,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00013792,6.95E-05,0.000232829
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2020,414,Acinetobacter baumannii,,1,Number,0.000138037,6.48E-05,0.000272367
+6,Incidence,117,Saint Vincent and the Grenadines,VCT,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000138251,4.67E-05,0.000688498
+6,Incidence,117,Saint Vincent and the Grenadines,VCT,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000138251,4.67E-05,0.000688498
+6,Incidence,66,Brunei Darussalam,BRN,3,Both,25,50-69 years,2021,187,Influenza,,2,Percent,0.000138598,2.50E-05,0.000631058
+1,Deaths,396,San Marino,SMR,3,Both,24,15-49 years,2019,426,Polymicrobial,,1,Number,0.00013861,7.43E-05,0.000238503
+1,Deaths,116,Saint Lucia,LCA,3,Both,23,5-14 years,2021,187,Influenza,,1,Number,0.000139449,4.16E-05,0.000687366
+6,Incidence,82,Greece,GRC,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000139747,2.63E-05,0.000435761
+1,Deaths,45,Bulgaria,BGR,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000139822,5.18E-05,0.000307482
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2019,423,Mycoplasma,,1,Number,0.000141762,0.000104805,0.000192904
+6,Incidence,95,United Kingdom,GBR,3,Both,23,5-14 years,1990,426,Polymicrobial,,2,Percent,0.00014213,8.40E-05,0.000233234
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,1990,418,Fungus,,1,Number,0.000142321,0.000103849,0.000189471
+1,Deaths,66,Brunei Darussalam,BRN,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,1,Number,0.00014246,2.25E-05,0.000680768
+1,Deaths,186,Seychelles,SYC,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,0.000142503,6.59E-05,0.000255035
+6,Incidence,109,Cuba,CUB,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000142526,4.79E-05,0.000706315
+6,Incidence,66,Brunei Darussalam,BRN,3,Both,22,All Ages,2021,187,Influenza,,2,Percent,0.000144025,2.62E-05,0.00065543
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2021,393,Group B streptococcus,,1,Number,0.00014479,0.00010511,0.000195677
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,1990,190,Respiratory syncytial virus,,1,Number,0.000144814,0.00010965,0.000188908
+6,Incidence,112,Grenada,GRD,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000146709,4.96E-05,0.000728184
+6,Incidence,112,Grenada,GRD,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000146709,4.96E-05,0.000728184
+6,Incidence,82,Greece,GRC,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000148108,2.78E-05,0.000457054
+6,Incidence,82,Greece,GRC,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000148108,2.78E-05,0.000457054
+6,Incidence,69,Singapore,SGP,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000148134,1.65E-05,0.000512102
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,1990,416,Enterobacter spp,,1,Number,0.000148171,0.000102351,0.000204086
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2019,421,Legionella spp,,1,Number,0.000148227,0.000109535,0.00020053
+1,Deaths,87,Luxembourg,LUX,3,Both,23,5-14 years,2020,426,Polymicrobial,,1,Number,0.000148235,8.16E-05,0.000255125
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,1990,414,Acinetobacter baumannii,,1,Number,0.000148378,1.00E-04,0.000200768
+1,Deaths,112,Grenada,GRD,3,Both,23,5-14 years,2021,187,Influenza,,1,Number,0.00014978,4.40E-05,0.000732372
+6,Incidence,95,United Kingdom,GBR,3,Both,24,15-49 years,1990,426,Polymicrobial,,2,Percent,0.00014987,8.82E-05,0.000245314
+6,Incidence,116,Saint Lucia,LCA,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000150362,5.10E-05,0.000747041
+6,Incidence,116,Saint Lucia,LCA,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000150362,5.10E-05,0.000747041
+6,Incidence,106,Bahamas,BHS,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000150624,5.09E-05,0.000738084
+6,Incidence,106,Bahamas,BHS,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000150624,5.09E-05,0.000738084
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2021,417,Escherichia coli,,1,Number,0.000150852,0.000108593,0.000204096
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2021,414,Acinetobacter baumannii,,1,Number,0.000151194,7.15E-05,0.000292041
+6,Incidence,95,United Kingdom,GBR,3,Both,1,Under 5,2020,426,Polymicrobial,,2,Percent,0.000151506,8.55E-05,0.000248458
+1,Deaths,113,Guyana,GUY,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000151706,4.43E-05,0.000729533
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2021,418,Fungus,,1,Number,0.000151735,0.000107958,0.000203118
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2020,416,Enterobacter spp,,1,Number,0.000151749,0.000112753,0.000201324
+1,Deaths,66,Brunei Darussalam,BRN,3,Both,25,50-69 years,2021,187,Influenza,,2,Percent,0.00015216,2.54E-05,0.000719246
+1,Deaths,43,Albania,ALB,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000154139,5.72E-05,0.000338219
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2020,393,Group B streptococcus,,1,Number,0.000154497,0.000112494,0.000207509
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2021,419,Haemophilus influenzae,,1,Number,0.000154876,0.000113788,0.000206756
+6,Incidence,115,Jamaica,JAM,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000154932,5.26E-05,0.000769247
+6,Incidence,115,Jamaica,JAM,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000154932,5.26E-05,0.000769247
+6,Incidence,18,Thailand,THA,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000157359,2.64E-05,0.000445187
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2021,417,Escherichia coli,,1,Number,0.000157837,9.10E-05,0.00024949
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2021,190,Respiratory syncytial virus,,1,Number,0.000157894,6.20E-05,0.000307358
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2021,416,Enterobacter spp,,1,Number,0.000159061,0.000118336,0.000209921
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,1990,418,Fungus,,1,Number,0.00015913,9.24E-05,0.000246232
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2020,393,Group B streptococcus,,1,Number,0.000159861,0.000106186,0.000237035
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2021,427,Pseudomonas aeruginosa,,1,Number,0.000159983,0.000114786,0.000222043
+1,Deaths,396,San Marino,SMR,3,Both,24,15-49 years,1990,426,Polymicrobial,,1,Number,0.000160096,9.20E-05,0.00026991
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2019,415,Chlamydia spp,,1,Number,0.00016033,0.000105251,0.000231145
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2020,417,Escherichia coli,,1,Number,0.000160959,0.000117192,0.000211704
+1,Deaths,44,Bosnia and Herzegovina,BIH,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000161161,5.90E-05,0.000353468
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,1990,418,Fungus,,1,Number,0.000161426,0.000102621,0.00024768
+1,Deaths,45,Bulgaria,BGR,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000161577,5.92E-05,0.000345482
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2020,418,Fungus,,1,Number,0.000161907,0.000115698,0.000215851
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2019,393,Group B streptococcus,,1,Number,0.000162184,0.000117687,0.000215507
+1,Deaths,52,Romania,ROU,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000162703,2.08E-05,0.000583077
+1,Deaths,52,Romania,ROU,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000162703,2.08E-05,0.000583077
+6,Incidence,107,Barbados,BRB,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000163401,5.53E-05,0.000804053
+6,Incidence,107,Barbados,BRB,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000163401,5.53E-05,0.000804053
+1,Deaths,49,North Macedonia,MKD,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000163832,5.99E-05,0.000359039
+1,Deaths,107,Barbados,BRB,3,Both,23,5-14 years,2021,187,Influenza,,1,Number,0.000164148,4.47E-05,0.000800267
+1,Deaths,52,Romania,ROU,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000164371,2.17E-05,0.00057862
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2020,419,Haemophilus influenzae,,1,Number,0.000165257,0.00012185,0.000214777
+6,Incidence,95,United Kingdom,GBR,3,Both,1,Under 5,1990,414,Acinetobacter baumannii,,2,Percent,0.000165841,0.000111856,0.000246382
+1,Deaths,396,San Marino,SMR,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,1,Number,0.000165862,6.32E-05,0.00032669
+6,Incidence,105,Antigua and Barbuda,ATG,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000166427,5.65E-05,0.000824025
+6,Incidence,105,Antigua and Barbuda,ATG,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000166427,5.65E-05,0.000824025
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2019,418,Fungus,,1,Number,0.00016736,0.000121675,0.000223478
+6,Incidence,10,Cambodia,KHM,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000167479,5.55E-05,0.000347833
+6,Incidence,10,Cambodia,KHM,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000167479,5.55E-05,0.000347833
+1,Deaths,121,Bolivia (Plurinational State of),BOL,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000167822,3.88E-05,0.000427801
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2020,415,Chlamydia spp,,1,Number,0.000168479,0.000116454,0.000230599
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2019,419,Haemophilus influenzae,,1,Number,0.000169079,0.000125469,0.000222976
+1,Deaths,59,Latvia,LVA,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000170068,7.07E-06,0.000922239
+1,Deaths,59,Latvia,LVA,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000170068,7.07E-06,0.000922239
+1,Deaths,66,Brunei Darussalam,BRN,3,Both,1,Under 5,2021,187,Influenza,,2,Percent,0.000170779,2.86E-05,0.000811972
+1,Deaths,115,Jamaica,JAM,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,0.000170919,5.23E-05,0.000823601
+6,Incidence,95,United Kingdom,GBR,3,Both,1,Under 5,2019,418,Fungus,,2,Percent,0.000171031,0.000127307,0.000226407
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2019,393,Group B streptococcus,,1,Number,0.00017172,0.000126584,0.000227366
+6,Incidence,95,United Kingdom,GBR,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000172021,8.88E-05,0.000296027
+6,Incidence,393,Saint Kitts and Nevis,KNA,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000172178,5.85E-05,0.000851919
+6,Incidence,393,Saint Kitts and Nevis,KNA,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000172178,5.85E-05,0.000851919
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2020,427,Pseudomonas aeruginosa,,1,Number,0.000172277,0.000126101,0.000234303
+1,Deaths,87,Luxembourg,LUX,3,Both,23,5-14 years,2021,426,Polymicrobial,,1,Number,0.000173218,9.27E-05,0.000293281
+6,Incidence,18,Thailand,THA,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00017377,2.92E-05,0.000491486
+1,Deaths,66,Brunei Darussalam,BRN,3,Both,23,5-14 years,2021,187,Influenza,,2,Percent,0.000173977,2.92E-05,0.000831814
+1,Deaths,66,Brunei Darussalam,BRN,3,Both,24,15-49 years,2021,187,Influenza,,2,Percent,0.000173977,2.92E-05,0.000831814
+6,Incidence,59,Latvia,LVA,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.00017429,7.21E-06,0.000919367
+6,Incidence,52,Romania,ROU,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000175079,2.31E-05,0.000606721
+1,Deaths,48,Hungary,HUN,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000175223,6.46E-05,0.000384095
+1,Deaths,53,Serbia,SRB,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000175892,6.46E-05,0.000385933
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,1990,417,Escherichia coli,,1,Number,0.00017643,0.000129017,0.000231513
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,1990,393,Group B streptococcus,,1,Number,0.000177044,0.000129342,0.000235082
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2019,417,Escherichia coli,,1,Number,0.000177228,0.000128408,0.000237205
+1,Deaths,43,Albania,ALB,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000178328,6.55E-05,0.000380664
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2019,417,Escherichia coli,,1,Number,0.000178899,0.000132839,0.000232227
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2020,418,Fungus,,1,Number,0.000179798,0.000119319,0.000260139
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2019,418,Fungus,,1,Number,0.000179964,0.000130939,0.000237503
+1,Deaths,110,Dominica,DMA,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,1,Number,0.000181145,5.29E-05,0.000895643
+6,Incidence,95,United Kingdom,GBR,3,Both,23,5-14 years,2019,426,Polymicrobial,,2,Percent,0.000181497,0.000102037,0.000302035
+6,Incidence,67,Japan,JPN,3,Both,1,Under 5,2021,187,Influenza,,2,Percent,0.00018293,7.80E-06,0.001043129
+6,Incidence,95,United Kingdom,GBR,3,Both,24,15-49 years,2019,426,Polymicrobial,,2,Percent,0.000182941,0.000104691,0.00030471
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2019,393,Group B streptococcus,,1,Number,0.00018339,0.000127064,0.000266286
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2019,419,Haemophilus influenzae,,1,Number,0.000183683,0.000138323,0.000237933
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2019,415,Chlamydia spp,,1,Number,0.000183817,0.000129118,0.00025275
+1,Deaths,44,Bosnia and Herzegovina,BIH,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000184598,6.82E-05,0.000399474
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2020,190,Respiratory syncytial virus,,1,Number,0.000185508,0.000131414,0.000254016
+1,Deaths,127,El Salvador,SLV,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000185522,3.77E-05,0.000482423
+1,Deaths,50,Montenegro,MNE,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000187003,6.86E-05,0.000408814
+1,Deaths,49,North Macedonia,MKD,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000187676,6.93E-05,0.000406472
+1,Deaths,126,Costa Rica,CRI,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000188428,5.70E-05,0.000404064
+6,Incidence,110,Dominica,DMA,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000189022,6.38E-05,0.000943217
+1,Deaths,117,Saint Vincent and the Grenadines,VCT,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,1,Number,0.000189798,5.76E-05,0.000923697
+1,Deaths,117,Saint Vincent and the Grenadines,VCT,3,Both,23,5-14 years,2021,187,Influenza,,1,Number,0.000190605,5.77E-05,0.000904711
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,1990,414,Acinetobacter baumannii,,1,Number,0.000191051,0.000102746,0.000329406
+1,Deaths,23,Kiribati,KIR,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000191588,9.52E-05,0.000320949
+1,Deaths,380,Palau,PLW,3,Both,23,5-14 years,2019,426,Polymicrobial,,1,Number,0.000192797,0.000115463,0.000307848
+6,Incidence,69,Singapore,SGP,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000192843,2.16E-05,0.000663927
+6,Incidence,69,Singapore,SGP,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000192843,2.16E-05,0.000663927
+6,Incidence,109,Cuba,CUB,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000193044,6.56E-05,0.000954561
+6,Incidence,109,Cuba,CUB,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000193044,6.56E-05,0.000954561
+1,Deaths,83,Iceland,ISL,3,Both,23,5-14 years,2019,414,Acinetobacter baumannii,,1,Number,0.000193893,0.000155863,0.0002393
+6,Incidence,52,Romania,ROU,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00019406,2.55E-05,0.000669734
+6,Incidence,59,Latvia,LVA,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000194146,8.23E-06,0.001006893
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2019,427,Pseudomonas aeruginosa,,1,Number,0.000194166,0.000145082,0.000262723
+1,Deaths,113,Guyana,GUY,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,0.000194519,5.78E-05,0.000946965
+1,Deaths,66,Brunei Darussalam,BRN,3,Both,22,All Ages,2021,187,Influenza,,2,Percent,0.000194745,3.29E-05,0.000924686
+1,Deaths,121,Bolivia (Plurinational State of),BOL,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000195048,4.42E-05,0.000497229
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2021,419,Haemophilus influenzae,,1,Number,0.000195089,0.00011309,0.000304688
+6,Incidence,95,United Kingdom,GBR,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000195205,0.000101706,0.000328303
+6,Incidence,95,United Kingdom,GBR,3,Both,23,5-14 years,2020,426,Polymicrobial,,2,Percent,0.000195899,0.000110222,0.000329182
+6,Incidence,116,Saint Lucia,LCA,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000195949,6.64E-05,0.000973497
+6,Incidence,95,United Kingdom,GBR,3,Both,24,15-49 years,2020,426,Polymicrobial,,2,Percent,0.000198021,0.000113483,0.000329092
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2021,423,Mycoplasma,,1,Number,0.000198475,0.00011452,0.000312817
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2020,187,Influenza,,1,Number,0.000199252,0.000132387,0.000288588
+6,Incidence,117,Saint Vincent and the Grenadines,VCT,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000200013,6.69E-05,0.000999648
+1,Deaths,26,Papua New Guinea,PNG,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000200022,0.000100139,0.000335078
+1,Deaths,81,Germany,DEU,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000200086,6.94E-05,0.000460323
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2021,424,Other bacterial pathogen,,1,Number,0.00020053,0.000141264,0.000272736
+6,Incidence,107,Barbados,BRB,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000201502,6.76E-05,0.001007823
+6,Incidence,66,Brunei Darussalam,BRN,3,Both,26,70+ years,2021,187,Influenza,,2,Percent,0.000201546,3.65E-05,0.000913345
+1,Deaths,53,Serbia,SRB,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000201832,7.47E-05,0.000438009
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2019,190,Respiratory syncytial virus,,1,Number,0.000201942,0.000147993,0.000268409
+1,Deaths,35,Georgia,GEO,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000202764,4.32E-05,0.00068018
+1,Deaths,48,Hungary,HUN,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000203516,7.52E-05,0.000435433
+6,Incidence,95,United Kingdom,GBR,3,Both,1,Under 5,2021,426,Polymicrobial,,2,Percent,0.000203742,0.00011457,0.000329455
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2019,424,Other bacterial pathogen,,1,Number,0.000204172,0.000131973,0.000303015
+6,Incidence,95,United Kingdom,GBR,3,Both,1,Under 5,1990,426,Polymicrobial,,2,Percent,0.000204379,0.000115042,0.000333289
+1,Deaths,30,Vanuatu,VUT,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000204412,0.000102674,0.000344307
+6,Incidence,109,Cuba,CUB,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000205486,6.97E-05,0.001022644
+1,Deaths,58,Estonia,EST,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,0.000205554,4.20E-05,0.000581338
+1,Deaths,44,Bosnia and Herzegovina,BIH,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000207083,7.70E-05,0.00045703
+6,Incidence,95,United Kingdom,GBR,3,Both,1,Under 5,2020,418,Fungus,,2,Percent,0.000207117,0.000152532,0.000277468
+1,Deaths,380,Palau,PLW,3,Both,23,5-14 years,2020,426,Polymicrobial,,1,Number,0.000207506,0.000123152,0.000330831
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,1990,418,Fungus,,1,Number,0.000208187,0.000150544,0.000271745
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2020,426,Polymicrobial,,1,Number,0.000208984,9.22E-05,0.000398508
+1,Deaths,112,Grenada,GRD,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,1,Number,0.000209661,5.77E-05,0.000991968
+1,Deaths,87,Luxembourg,LUX,3,Both,23,5-14 years,2020,414,Acinetobacter baumannii,,1,Number,0.000210142,0.000162358,0.000260806
+1,Deaths,81,Germany,DEU,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000210492,7.31E-05,0.000485327
+1,Deaths,66,Brunei Darussalam,BRN,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,1,Number,0.000211576,3.26E-05,0.001002373
+1,Deaths,35,Georgia,GEO,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00021176,4.51E-05,0.000710066
+1,Deaths,35,Georgia,GEO,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00021176,4.51E-05,0.000710066
+6,Incidence,18,Thailand,THA,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000212359,3.56E-05,0.000590959
+6,Incidence,18,Thailand,THA,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000212359,3.56E-05,0.000590959
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2019,426,Polymicrobial,,1,Number,0.000212656,8.59E-05,0.000421463
+1,Deaths,38,Mongolia,MNG,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.0002131,1.36E-05,0.00086006
+6,Incidence,119,Trinidad and Tobago,TTO,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.0002136,7.11E-05,0.001050926
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2020,424,Other bacterial pathogen,,1,Number,0.000214001,0.000152138,0.00028638
+1,Deaths,66,Brunei Darussalam,BRN,3,Both,26,70+ years,2021,187,Influenza,,2,Percent,0.00021424,3.61E-05,0.001018052
+1,Deaths,50,Montenegro,MNE,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000214331,7.90E-05,0.000464327
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2021,418,Fungus,,1,Number,0.000215677,0.000141822,0.00031282
+1,Deaths,127,El Salvador,SLV,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000216045,4.25E-05,0.000557316
+1,Deaths,53,Serbia,SRB,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000216191,7.99E-05,0.000470488
+6,Incidence,95,United Kingdom,GBR,3,Both,1,Under 5,1990,418,Fungus,,2,Percent,0.000216754,0.000158863,0.000287609
+1,Deaths,380,Palau,PLW,3,Both,23,5-14 years,2021,426,Polymicrobial,,1,Number,0.000216854,0.000128376,0.000350718
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2020,424,Other bacterial pathogen,,1,Number,0.000217104,0.000146155,0.000316541
+6,Incidence,95,United Kingdom,GBR,3,Both,23,5-14 years,2021,426,Polymicrobial,,2,Percent,0.000217223,0.000122488,0.000363357
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2019,424,Other bacterial pathogen,,1,Number,0.000217902,0.000156721,0.00029691
+1,Deaths,47,Czechia,CZE,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000218015,8.03E-05,0.000474252
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2020,417,Escherichia coli,,1,Number,0.000218254,0.000144512,0.000325387
+6,Incidence,67,Japan,JPN,3,Both,23,5-14 years,2021,187,Influenza,,2,Percent,0.000218327,9.28E-06,0.00125346
+6,Incidence,67,Japan,JPN,3,Both,24,15-49 years,2021,187,Influenza,,2,Percent,0.000218327,9.28E-06,0.00125346
+1,Deaths,46,Croatia,HRV,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000218669,8.05E-05,0.000475592
+1,Deaths,126,Costa Rica,CRI,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000219429,6.66E-05,0.000470187
+6,Incidence,95,United Kingdom,GBR,3,Both,24,15-49 years,2021,426,Polymicrobial,,2,Percent,0.000219509,0.000127155,0.000363828
+1,Deaths,95,United Kingdom,GBR,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000221349,0.00011161,0.000381278
+6,Incidence,118,Suriname,SUR,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000221384,7.35E-05,0.001105327
+1,Deaths,23,Kiribati,KIR,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000221569,0.00011184,0.000367537
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,1990,190,Respiratory syncytial virus,,1,Number,0.000221867,0.000164534,0.000293086
+1,Deaths,55,Slovenia,SVN,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000222168,4.63E-05,0.0006696
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2019,426,Polymicrobial,,1,Number,0.000222689,9.84E-05,0.000422209
+1,Deaths,72,New Zealand,NZL,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000224787,5.95E-05,0.000502868
+1,Deaths,72,New Zealand,NZL,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000224787,5.95E-05,0.000502868
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2019,190,Respiratory syncytial virus,,1,Number,0.000225508,0.000169402,0.000294815
+6,Incidence,18,Thailand,THA,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000225678,3.80E-05,0.000625564
+6,Incidence,35,Georgia,GEO,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.00022789,5.36E-05,0.000757993
+1,Deaths,396,San Marino,SMR,3,Both,24,15-49 years,2021,414,Acinetobacter baumannii,,1,Number,0.000228042,0.000108842,0.000374273
+1,Deaths,71,Australia,AUS,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00022893,6.04E-05,0.000512176
+1,Deaths,71,Australia,AUS,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00022893,6.04E-05,0.000512176
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2019,416,Enterobacter spp,,1,Number,0.000228974,0.000143437,0.000351261
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2021,393,Group B streptococcus,,1,Number,0.000229008,0.000124645,0.000352841
+1,Deaths,24,Marshall Islands,MHL,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000229524,0.000113989,0.000387839
+1,Deaths,17,Sri Lanka,LKA,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000229914,4.84E-05,0.000692713
+1,Deaths,26,Papua New Guinea,PNG,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000230271,0.000116518,0.000384388
+1,Deaths,81,Germany,DEU,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000230519,7.94E-05,0.000543082
+6,Incidence,67,Japan,JPN,3,Both,25,50-69 years,2021,187,Influenza,,2,Percent,0.000230752,9.99E-06,0.001336819
+6,Incidence,72,New Zealand,NZL,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000232213,6.41E-05,0.000529041
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2020,416,Enterobacter spp,,1,Number,0.000234306,0.000155825,0.00034579
+1,Deaths,30,Vanuatu,VUT,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000234531,0.000119102,0.000393943
+1,Deaths,48,Hungary,HUN,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000235636,9.03E-05,0.000521085
+6,Incidence,112,Grenada,GRD,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000235784,7.90E-05,0.00118208
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2019,421,Legionella spp,,1,Number,0.000235803,0.000144703,0.000353886
+6,Incidence,71,Australia,AUS,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.00023629,6.47E-05,0.000538623
+1,Deaths,50,Montenegro,MNE,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000236318,8.68E-05,0.000511156
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2019,424,Other bacterial pathogen,,1,Number,0.000237915,0.000170888,0.000313212
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2019,424,Other bacterial pathogen,,1,Number,0.000238292,0.000156866,0.000344182
+1,Deaths,396,San Marino,SMR,3,Both,24,15-49 years,2021,187,Influenza,,1,Number,0.000239235,8.79E-05,0.000484297
+1,Deaths,19,Timor-Leste,TLS,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000239877,0.000119948,0.000405514
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2020,421,Legionella spp,,1,Number,0.000242777,0.000159475,0.000351114
+1,Deaths,24,Marshall Islands,MHL,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,0.000244066,0.000115634,0.0004257
+6,Incidence,393,Saint Kitts and Nevis,KNA,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000245234,8.23E-05,0.00121982
+1,Deaths,87,Luxembourg,LUX,3,Both,23,5-14 years,2021,414,Acinetobacter baumannii,,1,Number,0.000245438,0.000192271,0.000302949
+1,Deaths,38,Mongolia,MNG,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00024632,1.52E-05,0.00101724
+6,Incidence,106,Bahamas,BHS,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000246581,8.17E-05,0.001223669
+1,Deaths,49,North Macedonia,MKD,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000246704,8.79E-05,0.00053985
+1,Deaths,11,Indonesia,IDN,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000247196,9.28E-05,0.000497796
+6,Incidence,115,Jamaica,JAM,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000247328,8.26E-05,0.001250642
+1,Deaths,15,Myanmar,MMR,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000248849,0.000124374,0.000418766
+6,Incidence,52,Romania,ROU,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000249963,3.29E-05,0.000880264
+6,Incidence,52,Romania,ROU,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000249963,3.29E-05,0.000880264
+1,Deaths,47,Czechia,CZE,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000250153,9.18E-05,0.000541032
+1,Deaths,45,Bulgaria,BGR,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000250446,9.36E-05,0.000544792
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2019,417,Escherichia coli,,1,Number,0.000250657,0.00017428,0.000356926
+1,Deaths,46,Croatia,HRV,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000250677,9.19E-05,0.000542752
+1,Deaths,116,Saint Lucia,LCA,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,1,Number,0.000251129,7.75E-05,0.001258213
+1,Deaths,49,North Macedonia,MKD,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,0.000251358,8.70E-05,0.000540418
+1,Deaths,28,Solomon Islands,SLB,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.00025341,0.000125578,0.000428483
+6,Incidence,105,Antigua and Barbuda,ATG,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000253714,8.50E-05,0.001271015
+1,Deaths,95,United Kingdom,GBR,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000253843,0.000129165,0.000435122
+6,Incidence,35,Georgia,GEO,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000254394,6.02E-05,0.000852543
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,1990,415,Chlamydia spp,,1,Number,0.000254466,0.000177449,0.00034408
+6,Incidence,95,United Kingdom,GBR,3,Both,22,All Ages,1990,426,Polymicrobial,,2,Percent,0.000254659,0.000154195,0.000415868
+1,Deaths,55,Slovenia,SVN,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000255429,5.37E-05,0.000766926
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2020,419,Haemophilus influenzae,,1,Number,0.000255816,0.0001705,0.000381662
+6,Incidence,95,United Kingdom,GBR,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000255858,0.000133168,0.000427861
+1,Deaths,25,Micronesia (Federated States of),FSM,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000256186,0.00012705,0.000432885
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2019,416,Enterobacter spp,,1,Number,0.00025629,0.000171417,0.000367987
+6,Incidence,108,Belize,BLZ,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000256949,8.61E-05,0.001287075
+6,Incidence,72,New Zealand,NZL,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000257456,6.91E-05,0.000589224
+1,Deaths,47,Czechia,CZE,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000258631,9.51E-05,0.000564354
+6,Incidence,71,Australia,AUS,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000261975,7.01E-05,0.000599043
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2020,423,Mycoplasma,,1,Number,0.00026203,0.000173373,0.000395548
+1,Deaths,45,Bulgaria,BGR,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000262035,9.79E-05,0.000571728
+1,Deaths,45,Bulgaria,BGR,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000262035,9.79E-05,0.000571728
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2019,421,Legionella spp,,1,Number,0.000263857,0.00017127,0.000382468
+1,Deaths,17,Sri Lanka,LKA,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00026413,5.52E-05,0.000789513
+6,Incidence,114,Haiti,HTI,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000264928,8.74E-05,0.001321216
+1,Deaths,24,Marshall Islands,MHL,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000265361,0.000133383,0.000443985
+6,Incidence,111,Dominican Republic,DOM,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000266323,8.82E-05,0.001334705
+1,Deaths,77,Cyprus,CYP,3,Both,23,5-14 years,2021,426,Polymicrobial,,1,Number,0.000266347,0.000136624,0.000477806
+1,Deaths,114,Haiti,HTI,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000267469,7.49E-05,0.001333205
+1,Deaths,46,Croatia,HRV,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000267642,0.000100767,0.000575395
+1,Deaths,396,San Marino,SMR,3,Both,24,15-49 years,2020,414,Acinetobacter baumannii,,1,Number,0.000268585,0.000151501,0.000400081
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2021,425,Other viral etiologies of LRI,,1,Number,0.000269003,0.00019181,0.000367864
+1,Deaths,67,Japan,JPN,3,Both,25,50-69 years,2021,187,Influenza,,2,Percent,0.000269848,1.16E-05,0.001491557
+1,Deaths,66,Brunei Darussalam,BRN,3,Both,1,Under 5,2021,190,Respiratory syncytial virus,,2,Percent,0.00027155,4.59E-05,0.001256112
+6,Incidence,95,United Kingdom,GBR,3,Both,22,All Ages,2019,426,Polymicrobial,,2,Percent,0.000272079,0.000155557,0.000456566
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2020,393,Group B streptococcus,,1,Number,0.000272383,0.000207498,0.000352696
+6,Incidence,95,United Kingdom,GBR,3,Both,26,70+ years,1990,426,Polymicrobial,,2,Percent,0.000272706,0.000162122,0.00045342
+6,Incidence,95,United Kingdom,GBR,3,Both,1,Under 5,2021,418,Fungus,,2,Percent,0.000274907,0.000202955,0.000364332
+1,Deaths,19,Timor-Leste,TLS,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000275271,0.000139449,0.000463507
+1,Deaths,54,Slovakia,SVK,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000275766,7.61E-05,0.000681599
+1,Deaths,74,Andorra,AND,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,1,Number,0.000277227,0.000116108,0.000532327
+1,Deaths,66,Brunei Darussalam,BRN,3,Both,1,Under 5,2021,187,Influenza,,1,Number,0.000277445,4.19E-05,0.001335415
+6,Incidence,95,United Kingdom,GBR,3,Both,25,50-69 years,1990,426,Polymicrobial,,2,Percent,0.000277481,0.000165502,0.00045051
+1,Deaths,416,Tuvalu,TUV,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000279151,0.000139321,0.000474884
+1,Deaths,55,Slovenia,SVN,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000280242,5.88E-05,0.000844585
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,1990,424,Other bacterial pathogen,,1,Number,0.000280337,0.000207392,0.000371525
+6,Incidence,45,Bulgaria,BGR,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.00028069,0.000107555,0.000600472
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2019,420,Klebsiella pneumoniae,,1,Number,0.000280709,0.000203823,0.000372949
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2020,418,Fungus,,1,Number,0.000281063,0.000214777,0.000368006
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2021,420,Klebsiella pneumoniae,,1,Number,0.000281098,0.000204312,0.000378463
+1,Deaths,44,Bosnia and Herzegovina,BIH,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000281262,0.000105617,0.000618446
+1,Deaths,44,Bosnia and Herzegovina,BIH,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000281262,0.000105617,0.000618446
+1,Deaths,67,Japan,JPN,3,Both,1,Under 5,2021,187,Influenza,,2,Percent,0.000281481,1.19E-05,0.001546185
+6,Incidence,59,Latvia,LVA,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000282764,1.17E-05,0.001475189
+6,Incidence,59,Latvia,LVA,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000282764,1.17E-05,0.001475189
+1,Deaths,49,North Macedonia,MKD,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000282778,0.000106028,0.000621405
+1,Deaths,49,North Macedonia,MKD,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000282778,0.000106028,0.000621405
+1,Deaths,22,Fiji,FJI,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.00028292,0.000139474,0.000479789
+1,Deaths,11,Indonesia,IDN,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000283559,0.000109598,0.000572623
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2020,419,Haemophilus influenzae,,1,Number,0.000283973,0.000218249,0.000368929
+1,Deaths,393,Saint Kitts and Nevis,KNA,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,1,Number,0.00028434,8.56E-05,0.001364241
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,1990,414,Acinetobacter baumannii,,1,Number,0.000284462,0.000133249,0.000539163
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2021,393,Group B streptococcus,,1,Number,0.000285476,0.00021487,0.000368532
+1,Deaths,88,Malta,MLT,3,Both,23,5-14 years,2019,426,Polymicrobial,,1,Number,0.000286534,0.000160897,0.000473641
+1,Deaths,15,Myanmar,MMR,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000286552,0.000144999,0.000482765
+1,Deaths,83,Iceland,ISL,3,Both,23,5-14 years,2021,426,Polymicrobial,,1,Number,0.0002881,0.000152993,0.000496511
+6,Incidence,95,United Kingdom,GBR,3,Both,26,70+ years,2019,426,Polymicrobial,,2,Percent,0.000289434,0.000162081,0.000487488
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2020,425,Other viral etiologies of LRI,,1,Number,0.000289687,0.00021018,0.000393976
+1,Deaths,78,Denmark,DNK,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000290304,4.76E-05,0.000822285
+6,Incidence,95,United Kingdom,GBR,3,Both,23,5-14 years,2019,414,Acinetobacter baumannii,,2,Percent,0.000291339,0.000252568,0.000332377
+6,Incidence,95,United Kingdom,GBR,3,Both,25,50-69 years,2019,426,Polymicrobial,,2,Percent,0.000291482,0.000167028,0.000489456
+1,Deaths,28,Solomon Islands,SLB,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000293435,0.000147299,0.000491991
+6,Incidence,95,United Kingdom,GBR,3,Both,24,15-49 years,2019,414,Acinetobacter baumannii,,2,Percent,0.000293641,0.000253252,0.000336736
+6,Incidence,95,United Kingdom,GBR,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000293666,0.000151987,0.000513847
+6,Incidence,113,Guyana,GUY,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000294175,9.71E-05,0.001460196
+1,Deaths,43,Albania,ALB,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000294284,0.000109618,0.000638927
+1,Deaths,43,Albania,ALB,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000294284,0.000109618,0.000638927
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2019,419,Haemophilus influenzae,,1,Number,0.000294526,0.000203839,0.00042205
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,1990,419,Haemophilus influenzae,,1,Number,0.000294548,0.000223862,0.000384048
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2021,418,Fungus,,1,Number,0.000294586,0.000223839,0.000386867
+1,Deaths,25,Micronesia (Federated States of),FSM,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00029653,0.000149964,0.000498433
+6,Incidence,95,United Kingdom,GBR,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000296829,0.000150901,0.000511295
+1,Deaths,105,Antigua and Barbuda,ATG,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,1,Number,0.000296865,8.30E-05,0.001422369
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2021,419,Haemophilus influenzae,,1,Number,0.000297638,0.000226823,0.000388363
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2020,417,Escherichia coli,,1,Number,0.000297685,0.000225843,0.000386771
+1,Deaths,51,Poland,POL,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.00029776,3.14E-05,0.001021577
+1,Deaths,87,Luxembourg,LUX,3,Both,23,5-14 years,2019,415,Chlamydia spp,,1,Number,0.000298881,0.000240071,0.000372928
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,1990,426,Polymicrobial,,1,Number,0.00029936,0.000144316,0.000532562
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2020,420,Klebsiella pneumoniae,,1,Number,0.000299929,0.000220222,0.000396258
+1,Deaths,107,Barbados,BRB,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,1,Number,0.000300756,9.35E-05,0.001460207
+1,Deaths,367,Monaco,MCO,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,1,Number,0.000301458,0.000144151,0.000551474
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2019,423,Mycoplasma,,1,Number,0.000301585,0.000209156,0.000433374
+1,Deaths,68,Republic of Korea,KOR,3,Both,23,5-14 years,2021,187,Influenza,,1,Number,0.000301618,0.000215828,0.000451551
+6,Incidence,67,Japan,JPN,3,Both,22,All Ages,2021,187,Influenza,,2,Percent,0.000302664,1.31E-05,0.001737112
+6,Incidence,95,United Kingdom,GBR,3,Both,22,All Ages,2020,426,Polymicrobial,,2,Percent,0.0003036,0.00017451,0.000502396
+1,Deaths,88,Malta,MLT,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,0.000304023,0.000152581,0.000548406
+1,Deaths,78,Denmark,DNK,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000305264,5.00E-05,0.000872221
+1,Deaths,67,Japan,JPN,3,Both,23,5-14 years,2021,187,Influenza,,2,Percent,0.000305545,1.31E-05,0.001665818
+1,Deaths,67,Japan,JPN,3,Both,24,15-49 years,2021,187,Influenza,,2,Percent,0.000305545,1.31E-05,0.001665818
+1,Deaths,27,Samoa,WSM,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000305895,0.000152725,0.000520759
+1,Deaths,68,Republic of Korea,KOR,3,Both,1,Under 5,2021,187,Influenza,,1,Number,0.000309154,0.000203669,0.000470085
+1,Deaths,53,Serbia,SRB,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000309885,0.000115949,0.000676152
+1,Deaths,53,Serbia,SRB,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000309885,0.000115949,0.000676152
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2021,417,Escherichia coli,,1,Number,0.000312006,0.000234444,0.000408848
+6,Incidence,43,Albania,ALB,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.0003122,0.000119651,0.000667956
+6,Incidence,45,Bulgaria,BGR,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000312384,0.000116345,0.00066826
+6,Incidence,95,United Kingdom,GBR,3,Both,23,5-14 years,2020,414,Acinetobacter baumannii,,2,Percent,0.000314457,0.000271014,0.000360687
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,1990,393,Group B streptococcus,,1,Number,0.000314785,0.000222122,0.000425051
+6,Incidence,44,Bosnia and Herzegovina,BIH,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000315013,0.000120526,0.000668156
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2020,426,Polymicrobial,,1,Number,0.00031537,0.00013489,0.000612361
+6,Incidence,95,United Kingdom,GBR,3,Both,25,50-69 years,2020,426,Polymicrobial,,2,Percent,0.000315605,0.000181934,0.000526319
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,1990,417,Escherichia coli,,1,Number,0.000317399,0.000222112,0.00043064
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2021,423,Mycoplasma,,1,Number,0.000317501,0.000230892,0.000424141
+6,Incidence,95,United Kingdom,GBR,3,Both,24,15-49 years,2020,414,Acinetobacter baumannii,,2,Percent,0.000317808,0.000274392,0.00036502
+6,Incidence,49,North Macedonia,MKD,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000318794,0.000121939,0.000676067
+1,Deaths,29,Tonga,TON,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000319382,0.000158462,0.000544814
+1,Deaths,416,Tuvalu,TUV,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000320497,0.000162072,0.000540951
+1,Deaths,54,Slovakia,SVK,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00032069,8.90E-05,0.000787125
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2021,420,Klebsiella pneumoniae,,1,Number,0.000321061,0.000186615,0.000498183
+1,Deaths,117,Saint Vincent and the Grenadines,VCT,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,1,Number,0.000321368,9.78E-05,0.001567464
+1,Deaths,77,Cyprus,CYP,3,Both,23,5-14 years,2020,426,Polymicrobial,,1,Number,0.000321687,0.000169634,0.00055724
+6,Incidence,95,United Kingdom,GBR,3,Both,26,70+ years,2020,426,Polymicrobial,,2,Percent,0.000325163,0.000182354,0.000544436
+1,Deaths,95,United Kingdom,GBR,3,Both,23,5-14 years,2019,426,Polymicrobial,,2,Percent,0.00032632,0.000185746,0.000540739
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2019,425,Other viral etiologies of LRI,,1,Number,0.000326485,0.000242379,0.000440578
+1,Deaths,95,United Kingdom,GBR,3,Both,1,Under 5,2019,418,Fungus,,2,Percent,0.00032807,0.000240294,0.000439536
+1,Deaths,50,Montenegro,MNE,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000328505,0.000122341,0.000715954
+1,Deaths,50,Montenegro,MNE,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000328505,0.000122341,0.000715954
+1,Deaths,83,Iceland,ISL,3,Both,23,5-14 years,2020,426,Polymicrobial,,1,Number,0.00032906,0.000163275,0.000594926
+1,Deaths,22,Fiji,FJI,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000329184,0.000165837,0.000553446
+1,Deaths,396,San Marino,SMR,3,Both,24,15-49 years,2021,415,Chlamydia spp,,1,Number,0.000331385,0.000159193,0.000521365
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2019,420,Klebsiella pneumoniae,,1,Number,0.000333364,0.000250201,0.000428803
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2020,415,Chlamydia spp,,1,Number,0.000337134,0.000251473,0.000454671
+1,Deaths,95,United Kingdom,GBR,3,Both,1,Under 5,1990,418,Fungus,,2,Percent,0.000337248,0.00024564,0.000448202
+1,Deaths,78,Denmark,DNK,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000337477,5.46E-05,0.000959809
+1,Deaths,58,Estonia,EST,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000337486,6.80E-05,0.000932125
+1,Deaths,121,Bolivia (Plurinational State of),BOL,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000337996,7.55E-05,0.000873015
+1,Deaths,121,Bolivia (Plurinational State of),BOL,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000337996,7.55E-05,0.000873015
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2020,423,Mycoplasma,,1,Number,0.000338775,0.000247627,0.00044913
+1,Deaths,416,Tuvalu,TUV,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,1,Number,0.000339474,0.000159571,0.000587639
+6,Incidence,35,Georgia,GEO,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000339918,7.97E-05,0.001113167
+6,Incidence,35,Georgia,GEO,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000339918,7.97E-05,0.001113167
+6,Incidence,67,Japan,JPN,3,Both,26,70+ years,2021,187,Influenza,,2,Percent,0.000340243,1.46E-05,0.00194484
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2021,426,Polymicrobial,,1,Number,0.000342996,0.000143952,0.000664957
+1,Deaths,51,Poland,POL,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000343034,3.68E-05,0.001183979
+6,Incidence,69,Singapore,SGP,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000343327,3.74E-05,0.001208735
+6,Incidence,82,Greece,GRC,3,Both,1,Under 5,2021,187,Influenza,,2,Percent,0.000343437,6.52E-05,0.001061937
+1,Deaths,51,Poland,POL,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000344078,3.66E-05,0.001183044
+6,Incidence,95,United Kingdom,GBR,3,Both,22,All Ages,2021,426,Polymicrobial,,2,Percent,0.000345539,0.00019775,0.000578691
+6,Incidence,53,Serbia,SRB,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000345775,0.000132297,0.000735811
+6,Incidence,95,United Kingdom,GBR,3,Both,25,50-69 years,2021,426,Polymicrobial,,2,Percent,0.000346135,0.000197124,0.00057412
+1,Deaths,369,Nauru,NRU,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,1,Number,0.000346147,0.000151334,0.000628686
+6,Incidence,59,Latvia,LVA,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.00034646,1.41E-05,0.001785474
+6,Incidence,43,Albania,ALB,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000347207,0.000130245,0.000743396
+1,Deaths,380,Palau,PLW,3,Both,23,5-14 years,2021,187,Influenza,,1,Number,0.000347371,0.000168858,0.000601987
+1,Deaths,105,Antigua and Barbuda,ATG,3,Both,23,5-14 years,2020,426,Polymicrobial,,1,Number,0.000347406,0.000213428,0.000535552
+6,Incidence,121,Bolivia (Plurinational State of),BOL,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000347934,7.48E-05,0.000845963
+1,Deaths,48,Hungary,HUN,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000348662,0.000130133,0.000749251
+1,Deaths,48,Hungary,HUN,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000348662,0.000130133,0.000749251
+6,Incidence,95,United Kingdom,GBR,3,Both,23,5-14 years,2021,414,Acinetobacter baumannii,,2,Percent,0.000348674,0.000301945,0.000401095
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,1990,420,Klebsiella pneumoniae,,1,Number,0.000348773,0.000263844,0.000454132
+6,Incidence,44,Bosnia and Herzegovina,BIH,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000349535,0.000131031,0.000749872
+1,Deaths,27,Samoa,WSM,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000351032,0.000177671,0.000594411
+6,Incidence,95,United Kingdom,GBR,3,Both,24,15-49 years,2021,414,Acinetobacter baumannii,,2,Percent,0.000352388,0.00030466,0.000402496
+6,Incidence,49,North Macedonia,MKD,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000353537,0.000132586,0.000757959
+1,Deaths,105,Antigua and Barbuda,ATG,3,Both,23,5-14 years,2021,426,Polymicrobial,,1,Number,0.000355407,0.00022666,0.000533315
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2019,423,Mycoplasma,,1,Number,0.000355975,0.000261154,0.00046824
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,1990,421,Legionella spp,,1,Number,0.000356717,0.000267166,0.000469448
+1,Deaths,30,Vanuatu,VUT,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000357455,0.000180571,0.000593057
+1,Deaths,30,Vanuatu,VUT,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000357455,0.000180571,0.000593057
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,1990,416,Enterobacter spp,,1,Number,0.000358479,0.000241374,0.000519611
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2021,187,Influenza,,1,Number,0.000358614,0.000165528,0.00066428
+1,Deaths,380,Palau,PLW,3,Both,23,5-14 years,2020,190,Respiratory syncytial virus,,1,Number,0.000362269,0.000249944,0.000513675
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,1990,427,Pseudomonas aeruginosa,,1,Number,0.000364492,0.000275019,0.000476173
+6,Incidence,48,Hungary,HUN,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000364544,0.000140357,0.000779844
+1,Deaths,17,Sri Lanka,LKA,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000364961,7.56E-05,0.001119776
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2021,417,Escherichia coli,,1,Number,0.000365134,0.000204725,0.000548689
+1,Deaths,26,Papua New Guinea,PNG,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00036528,0.000184482,0.000603587
+1,Deaths,26,Papua New Guinea,PNG,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00036528,0.000184482,0.000603587
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2020,424,Other bacterial pathogen,,1,Number,0.000366049,0.000270119,0.000495293
+6,Incidence,50,Montenegro,MNE,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000366101,0.000140241,0.000778667
+1,Deaths,23,Kiribati,KIR,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000367345,0.000185221,0.000606065
+1,Deaths,23,Kiribati,KIR,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000367345,0.000185221,0.000606065
+1,Deaths,29,Tonga,TON,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000367972,0.000186459,0.000623902
+1,Deaths,393,Saint Kitts and Nevis,KNA,3,Both,23,5-14 years,2021,426,Polymicrobial,,1,Number,0.000369656,0.000227275,0.000590091
+1,Deaths,95,United Kingdom,GBR,3,Both,24,15-49 years,1990,426,Polymicrobial,,2,Percent,0.000370387,0.00021782,0.000604657
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2021,421,Legionella spp,,1,Number,0.00037113,0.000272581,0.000499221
+6,Incidence,95,United Kingdom,GBR,3,Both,26,70+ years,2021,426,Polymicrobial,,2,Percent,0.000372634,0.000207662,0.000623432
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,1990,190,Respiratory syncytial virus,,1,Number,0.000374249,0.00026117,0.000512112
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,1990,418,Fungus,,1,Number,0.000374975,0.000259929,0.000508375
+1,Deaths,67,Japan,JPN,3,Both,22,All Ages,2021,187,Influenza,,2,Percent,0.000376143,1.59E-05,0.002078932
+1,Deaths,29,Tonga,TON,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,0.000376342,0.00018019,0.000676924
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2019,423,Mycoplasma,,1,Number,0.000376542,0.000281536,0.000490343
+1,Deaths,416,Tuvalu,TUV,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,1,Number,0.000376837,0.000179266,0.000647767
+1,Deaths,396,San Marino,SMR,3,Both,24,15-49 years,2021,416,Enterobacter spp,,1,Number,0.00037907,0.000181071,0.000597787
+1,Deaths,127,El Salvador,SLV,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000380098,7.46E-05,0.001002964
+1,Deaths,127,El Salvador,SLV,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000380098,7.46E-05,0.001002964
+1,Deaths,105,Antigua and Barbuda,ATG,3,Both,23,5-14 years,1990,426,Polymicrobial,,1,Number,0.000381239,0.000250004,0.000573992
+1,Deaths,20,Viet Nam,VNM,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000381657,0.0001055,0.000879788
+1,Deaths,67,Japan,JPN,3,Both,26,70+ years,2021,187,Influenza,,2,Percent,0.00038175,1.61E-05,0.002113374
+6,Incidence,53,Serbia,SRB,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000383417,0.000143918,0.000822872
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2021,424,Other bacterial pathogen,,1,Number,0.00038364,0.000282093,0.000518778
+6,Incidence,72,New Zealand,NZL,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000384607,0.000104868,0.000886335
+6,Incidence,72,New Zealand,NZL,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000384607,0.000104868,0.000886335
+1,Deaths,25,Micronesia (Federated States of),FSM,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,0.000384702,0.000176668,0.000686212
+1,Deaths,81,Germany,DEU,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000384855,0.000134158,0.00090066
+1,Deaths,81,Germany,DEU,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000384855,0.000134158,0.00090066
+6,Incidence,127,El Salvador,SLV,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000385966,8.24E-05,0.000966373
+1,Deaths,83,Iceland,ISL,3,Both,23,5-14 years,2019,415,Chlamydia spp,,1,Number,0.000386097,0.000317184,0.000455949
+1,Deaths,126,Costa Rica,CRI,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000386485,0.000119239,0.000833712
+1,Deaths,126,Costa Rica,CRI,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000386485,0.000119239,0.000833712
+1,Deaths,58,Estonia,EST,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000387982,7.93E-05,0.001073123
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2021,419,Haemophilus influenzae,,1,Number,0.000389576,0.000219907,0.000575509
+1,Deaths,396,San Marino,SMR,3,Both,24,15-49 years,2020,415,Chlamydia spp,,1,Number,0.00039046,0.000230405,0.000572885
+1,Deaths,46,Croatia,HRV,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000390737,0.000144966,0.000843707
+1,Deaths,46,Croatia,HRV,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000390737,0.000144966,0.000843707
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2021,423,Mycoplasma,,1,Number,0.000391512,0.000223392,0.000576288
+6,Incidence,23,Kiribati,KIR,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000392218,0.000199499,0.000648013
+1,Deaths,47,Czechia,CZE,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00039251,0.00014561,0.000846647
+1,Deaths,47,Czechia,CZE,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00039251,0.00014561,0.000846647
+6,Incidence,121,Bolivia (Plurinational State of),BOL,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000392706,9.02E-05,0.000963374
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2021,415,Chlamydia spp,,1,Number,0.000393516,0.000289325,0.000528965
+1,Deaths,112,Grenada,GRD,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,1,Number,0.000394867,0.000110591,0.001828526
+6,Incidence,71,Australia,AUS,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000394988,0.000107443,0.000908408
+6,Incidence,71,Australia,AUS,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000394988,0.000107443,0.000908408
+1,Deaths,186,Seychelles,SYC,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.00039514,0.000196493,0.000674145
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2020,421,Legionella spp,,1,Number,0.000396012,0.000293032,0.00051953
+1,Deaths,369,Nauru,NRU,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000397264,0.00020105,0.000673933
+1,Deaths,95,United Kingdom,GBR,3,Both,23,5-14 years,1990,426,Polymicrobial,,2,Percent,0.000397331,0.000237352,0.000648127
+1,Deaths,126,Costa Rica,CRI,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000397509,0.000121023,0.000846393
+1,Deaths,38,Mongolia,MNG,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000397672,2.45E-05,0.001598083
+1,Deaths,38,Mongolia,MNG,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000397672,2.45E-05,0.001598083
+1,Deaths,380,Palau,PLW,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000397725,0.000195916,0.000671963
+6,Incidence,81,Germany,DEU,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000397982,0.000133149,0.000933239
+1,Deaths,396,San Marino,SMR,3,Both,24,15-49 years,2019,414,Acinetobacter baumannii,,1,Number,0.000398435,0.00029214,0.000523949
+1,Deaths,106,Bahamas,BHS,3,Both,23,5-14 years,2021,187,Influenza,,1,Number,0.000399528,0.000102691,0.001901654
+6,Incidence,26,Papua New Guinea,PNG,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000401535,0.000203548,0.000660027
+6,Incidence,126,Costa Rica,CRI,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000402234,0.00013446,0.000840013
+1,Deaths,393,Saint Kitts and Nevis,KNA,3,Both,23,5-14 years,2019,426,Polymicrobial,,1,Number,0.000403457,0.000250841,0.000645571
+1,Deaths,10,Cambodia,KHM,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000403954,0.000125666,0.000903194
+1,Deaths,87,Luxembourg,LUX,3,Both,23,5-14 years,1990,426,Polymicrobial,,1,Number,0.000404028,0.00023992,0.000653126
+6,Incidence,30,Vanuatu,VUT,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000404331,0.000203992,0.000664379
+6,Incidence,50,Montenegro,MNE,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000405446,0.000152501,0.000869255
+6,Incidence,95,United Kingdom,GBR,3,Both,1,Under 5,1990,416,Enterobacter spp,,2,Percent,0.000405739,0.000316185,0.000515655
+6,Incidence,48,Hungary,HUN,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000405953,0.000152469,0.000870077
+1,Deaths,116,Saint Lucia,LCA,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,1,Number,0.000406807,0.000123413,0.001995827
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2019,393,Group B streptococcus,,1,Number,0.00040688,0.000270351,0.000589642
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2019,421,Legionella spp,,1,Number,0.00040733,0.00029881,0.00054099
+1,Deaths,17,Sri Lanka,LKA,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000407937,8.47E-05,0.001209583
+1,Deaths,17,Sri Lanka,LKA,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000407937,8.47E-05,0.001209583
+6,Incidence,95,United Kingdom,GBR,3,Both,1,Under 5,2019,416,Enterobacter spp,,2,Percent,0.000407953,0.000322929,0.000509653
+6,Incidence,66,Brunei Darussalam,BRN,3,Both,1,Under 5,2021,190,Respiratory syncytial virus,,2,Percent,0.000408583,7.43E-05,0.001860304
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,1990,424,Other bacterial pathogen,,1,Number,0.0004088,0.000297719,0.000538472
+6,Incidence,114,Haiti,HTI,3,Both,23,5-14 years,2021,187,Influenza,,2,Percent,0.000409364,0.000139003,0.002005998
+6,Incidence,114,Haiti,HTI,3,Both,24,15-49 years,2021,187,Influenza,,2,Percent,0.000409364,0.000139003,0.002005998
+6,Incidence,71,Australia,AUS,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000409597,0.000109511,0.000921011
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2019,187,Influenza,,1,Number,0.000410083,0.000304798,0.000550717
+6,Incidence,114,Haiti,HTI,3,Both,25,50-69 years,2021,187,Influenza,,2,Percent,0.000413182,0.000140613,0.002038197
+1,Deaths,55,Slovenia,SVN,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000414627,8.82E-05,0.001243361
+1,Deaths,55,Slovenia,SVN,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000414627,8.82E-05,0.001243361
+6,Incidence,82,Greece,GRC,3,Both,23,5-14 years,2021,187,Influenza,,2,Percent,0.000414633,7.82E-05,0.001285237
+6,Incidence,82,Greece,GRC,3,Both,24,15-49 years,2021,187,Influenza,,2,Percent,0.000414633,7.82E-05,0.001285237
+1,Deaths,19,Timor-Leste,TLS,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000416336,0.000210208,0.000690786
+1,Deaths,19,Timor-Leste,TLS,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000416336,0.000210208,0.000690786
+1,Deaths,393,Saint Kitts and Nevis,KNA,3,Both,23,5-14 years,2020,426,Polymicrobial,,1,Number,0.00041844,0.000258755,0.000675925
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2020,393,Group B streptococcus,,1,Number,0.000418871,0.000288121,0.000572629
+1,Deaths,11,Indonesia,IDN,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000419784,0.000161991,0.000834155
+1,Deaths,11,Indonesia,IDN,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000419784,0.000161991,0.000834155
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,1990,421,Legionella spp,,1,Number,0.000421462,0.000275805,0.000625511
+1,Deaths,90,Norway,NOR,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,0.000421552,7.62E-05,0.001372046
+1,Deaths,393,Saint Kitts and Nevis,KNA,3,Both,1,Under 5,2021,187,Influenza,,1,Number,0.000422608,0.000132494,0.002019049
+1,Deaths,43,Albania,ALB,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.00042323,0.000154101,0.000941249
+6,Incidence,82,Greece,GRC,3,Both,25,50-69 years,2021,187,Influenza,,2,Percent,0.000423507,8.05E-05,0.001308306
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2021,428,Staphylococcus aureus,,1,Number,0.000423625,0.000302284,0.00058178
+6,Incidence,114,Haiti,HTI,3,Both,1,Under 5,2021,187,Influenza,,2,Percent,0.000424714,0.000145643,0.002107374
+1,Deaths,95,United Kingdom,GBR,3,Both,1,Under 5,2020,418,Fungus,,2,Percent,0.000428208,0.00030374,0.000584359
+6,Incidence,45,Bulgaria,BGR,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000428212,0.000160892,0.000914082
+6,Incidence,45,Bulgaria,BGR,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000428212,0.000160892,0.000914082
+6,Incidence,38,Mongolia,MNG,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000428259,2.73E-05,0.001673292
+6,Incidence,46,Croatia,HRV,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000429718,0.000165614,0.000915925
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,1990,423,Mycoplasma,,1,Number,0.000429784,0.000323404,0.000566793
+6,Incidence,47,Czechia,CZE,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000430298,0.000165654,0.000916642
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2020,420,Klebsiella pneumoniae,,1,Number,0.000432481,0.00028904,0.000642925
+6,Incidence,127,El Salvador,SLV,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00043356,9.22E-05,0.001075574
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,1990,416,Enterobacter spp,,1,Number,0.000433699,0.00027584,0.000680009
+6,Incidence,52,Romania,ROU,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000434267,5.75E-05,0.001474461
+6,Incidence,35,Georgia,GEO,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000434689,0.000101893,0.001445796
+1,Deaths,50,Montenegro,MNE,3,Both,23,5-14 years,2021,187,Influenza,,1,Number,0.000436766,0.000157556,0.000982677
+1,Deaths,416,Tuvalu,TUV,3,Both,23,5-14 years,2019,426,Polymicrobial,,1,Number,0.000436868,0.00026962,0.000671296
+1,Deaths,20,Viet Nam,VNM,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000437477,0.00012087,0.001009508
+6,Incidence,55,Slovenia,SVN,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000437506,9.08E-05,0.001386741
+1,Deaths,87,Luxembourg,LUX,3,Both,23,5-14 years,2019,416,Enterobacter spp,,1,Number,0.000438514,0.000348083,0.000540251
+1,Deaths,15,Myanmar,MMR,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000438569,0.000221358,0.000723227
+1,Deaths,15,Myanmar,MMR,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000438569,0.000221358,0.000723227
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,1990,419,Haemophilus influenzae,,1,Number,0.000438734,0.000324646,0.000567511
+6,Incidence,81,Germany,DEU,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000439759,0.000147772,0.001045978
+1,Deaths,183,Mauritius,MUS,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000439763,0.000217189,0.000752424
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2019,421,Legionella spp,,1,Number,0.000440176,0.000332242,0.000566917
+6,Incidence,114,Haiti,HTI,3,Both,22,All Ages,2021,187,Influenza,,2,Percent,0.000440689,0.000150669,0.002178709
+1,Deaths,66,Brunei Darussalam,BRN,3,Both,1,Under 5,2021,190,Respiratory syncytial virus,,1,Number,0.000440812,6.75E-05,0.002138537
+6,Incidence,23,Kiribati,KIR,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000444912,0.000228785,0.00073101
+1,Deaths,396,San Marino,SMR,3,Both,24,15-49 years,2020,416,Enterobacter spp,,1,Number,0.000446533,0.000253297,0.000649206
+1,Deaths,44,Bosnia and Herzegovina,BIH,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,0.000446874,0.000159947,0.000959524
+1,Deaths,105,Antigua and Barbuda,ATG,3,Both,23,5-14 years,2019,426,Polymicrobial,,1,Number,0.000447862,0.000279553,0.000683264
+1,Deaths,24,Marshall Islands,MHL,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000449453,0.000228446,0.000739136
+1,Deaths,24,Marshall Islands,MHL,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000449453,0.000228446,0.000739136
+6,Incidence,126,Costa Rica,CRI,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000449784,0.000148688,0.000940515
+1,Deaths,95,United Kingdom,GBR,3,Both,23,5-14 years,2020,426,Polymicrobial,,2,Percent,0.000450335,0.000251035,0.000737688
+1,Deaths,58,Estonia,EST,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.00045108,9.23E-05,0.001233127
+1,Deaths,416,Tuvalu,TUV,3,Both,23,5-14 years,2020,426,Polymicrobial,,1,Number,0.00045141,0.00027506,0.000704035
+6,Incidence,72,New Zealand,NZL,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.00045178,0.000123388,0.001019963
+1,Deaths,69,Singapore,SGP,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,0.000452363,5.00E-05,0.001553476
+6,Incidence,26,Papua New Guinea,PNG,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000453788,0.000232796,0.000746015
+1,Deaths,186,Seychelles,SYC,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000454001,0.000230082,0.000766095
+6,Incidence,49,North Macedonia,MKD,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000454869,0.000171407,0.000968505
+6,Incidence,49,North Macedonia,MKD,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000454869,0.000171407,0.000968505
+6,Incidence,44,Bosnia and Herzegovina,BIH,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000455228,0.000171668,0.000969291
+6,Incidence,44,Bosnia and Herzegovina,BIH,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000455228,0.000171668,0.000969291
+6,Incidence,30,Vanuatu,VUT,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000455776,0.000233249,0.000748994
+1,Deaths,90,Norway,NOR,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000455858,8.43E-05,0.001442705
+1,Deaths,50,Montenegro,MNE,3,Both,23,5-14 years,2020,426,Polymicrobial,,1,Number,0.000456028,0.000241557,0.000809132
+1,Deaths,95,United Kingdom,GBR,3,Both,24,15-49 years,2019,426,Polymicrobial,,2,Percent,0.000456162,0.000256542,0.000760184
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2020,428,Staphylococcus aureus,,1,Number,0.000456183,0.000329963,0.000621024
+1,Deaths,114,Haiti,HTI,3,Both,25,50-69 years,2021,187,Influenza,,2,Percent,0.000456698,0.000128933,0.002183207
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,2019,393,Group B streptococcus,,1,Number,0.000457091,0.000312069,0.000624507
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2021,427,Pseudomonas aeruginosa,,1,Number,0.000457369,0.000334044,0.000615415
+1,Deaths,416,Tuvalu,TUV,3,Both,23,5-14 years,2021,426,Polymicrobial,,1,Number,0.000458024,0.000274113,0.000707702
+1,Deaths,54,Slovakia,SVK,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000458598,0.000128695,0.001116471
+1,Deaths,98,Chile,CHL,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000460194,0.000127706,0.001009961
+1,Deaths,23,Kiribati,KIR,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,0.000460359,0.000209586,0.000835745
+1,Deaths,380,Palau,PLW,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000461204,0.000234191,0.000768863
+1,Deaths,14,Maldives,MDV,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000461644,0.000230086,0.000782102
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2021,427,Pseudomonas aeruginosa,,1,Number,0.000463566,0.000270785,0.000718729
+1,Deaths,88,Malta,MLT,3,Both,23,5-14 years,2020,426,Polymicrobial,,1,Number,0.000463647,0.000254443,0.000769242
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2020,424,Other bacterial pathogen,,1,Number,0.000465212,0.000331997,0.000645702
+1,Deaths,127,El Salvador,SLV,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000465815,9.33E-05,0.001193229
+1,Deaths,416,Tuvalu,TUV,3,Both,23,5-14 years,2021,187,Influenza,,1,Number,0.000466491,0.000223875,0.000790668
+1,Deaths,74,Andorra,AND,3,Both,1,Under 5,1990,418,Fungus,,1,Number,0.000466703,0.000277229,0.00076539
+1,Deaths,90,Norway,NOR,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000468585,8.67E-05,0.001484833
+6,Incidence,24,Marshall Islands,MHL,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000468832,0.000237965,0.000771945
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2020,421,Legionella spp,,1,Number,0.000469136,0.000306566,0.000673981
+6,Incidence,17,Sri Lanka,LKA,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000470073,0.000102508,0.001343662
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2020,420,Klebsiella pneumoniae,,1,Number,0.000471477,0.000358628,0.000610927
+6,Incidence,95,United Kingdom,GBR,3,Both,1,Under 5,2019,421,Legionella spp,,2,Percent,0.000472319,0.000340307,0.000647974
+1,Deaths,416,Tuvalu,TUV,3,Both,23,5-14 years,2020,190,Respiratory syncytial virus,,1,Number,0.000472441,0.000314924,0.000682308
+6,Incidence,95,United Kingdom,GBR,3,Both,22,All Ages,2019,414,Acinetobacter baumannii,,2,Percent,0.000472652,0.000415854,0.000532371
+6,Incidence,19,Timor-Leste,TLS,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000472816,0.000238985,0.000773518
+6,Incidence,46,Croatia,HRV,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000474972,0.000179143,0.00101795
+1,Deaths,82,Greece,GRC,3,Both,25,50-69 years,2021,187,Influenza,,2,Percent,0.000475103,9.06E-05,0.001466351
+6,Incidence,47,Czechia,CZE,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00047598,0.000179636,0.001021206
+6,Incidence,38,Mongolia,MNG,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000480748,3.06E-05,0.00192226
+6,Incidence,11,Indonesia,IDN,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000481559,0.000189029,0.000958688
+1,Deaths,82,Greece,GRC,3,Both,1,Under 5,2021,187,Influenza,,2,Percent,0.000482321,9.15E-05,0.001485049
+6,Incidence,43,Albania,ALB,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00048269,0.000181613,0.001032418
+6,Incidence,43,Albania,ALB,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.00048269,0.000181613,0.001032418
+6,Incidence,55,Slovenia,SVN,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000483467,0.000100381,0.001522292
+1,Deaths,59,Latvia,LVA,3,Both,23,5-14 years,2021,187,Influenza,,1,Number,0.000483781,1.96E-05,0.002577745
+1,Deaths,28,Solomon Islands,SLB,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000484798,0.000245739,0.00080194
+1,Deaths,28,Solomon Islands,SLB,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000484798,0.000245739,0.00080194
+1,Deaths,380,Palau,PLW,3,Both,23,5-14 years,1990,426,Polymicrobial,,1,Number,0.000485028,0.000282095,0.000783179
+1,Deaths,95,United Kingdom,GBR,3,Both,1,Under 5,2021,418,Fungus,,2,Percent,0.000485134,0.000339334,0.000662493
+1,Deaths,369,Nauru,NRU,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,1,Number,0.000485725,0.000164242,0.001571245
+6,Incidence,69,Singapore,SGP,3,Both,1,Under 5,2021,187,Influenza,,2,Percent,0.000486343,5.35E-05,0.001671288
+1,Deaths,416,Tuvalu,TUV,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000486456,0.000245812,0.000805876
+1,Deaths,416,Tuvalu,TUV,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000486456,0.000245812,0.000805876
+1,Deaths,74,Andorra,AND,3,Both,23,5-14 years,2020,427,Pseudomonas aeruginosa,,1,Number,0.000488019,0.000361052,0.000639856
+1,Deaths,380,Palau,PLW,3,Both,23,5-14 years,2019,416,Enterobacter spp,,1,Number,0.00049093,0.00036925,0.000626445
+1,Deaths,87,Luxembourg,LUX,3,Both,23,5-14 years,2020,415,Chlamydia spp,,1,Number,0.00049141,0.000388869,0.00059478
+6,Incidence,15,Myanmar,MMR,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000493416,0.00024972,0.000807066
+6,Incidence,95,United Kingdom,GBR,3,Both,1,Under 5,2020,416,Enterobacter spp,,2,Percent,0.000493631,0.000391663,0.000616285
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2021,420,Klebsiella pneumoniae,,1,Number,0.000494161,0.000376178,0.000644403
+6,Incidence,95,United Kingdom,GBR,3,Both,26,70+ years,2019,414,Acinetobacter baumannii,,2,Percent,0.000494865,0.000431193,0.000562102
+6,Incidence,111,Dominican Republic,DOM,3,Both,1,Under 5,2021,187,Influenza,,2,Percent,0.000495977,0.00017008,0.002437792
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,2019,420,Klebsiella pneumoniae,,1,Number,0.000497246,0.000344573,0.000711883
+1,Deaths,55,Slovenia,SVN,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,1,Number,0.000497824,0.000102239,0.001540956
+1,Deaths,34,Azerbaijan,AZE,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000498685,0.000105388,0.001237152
+6,Incidence,95,United Kingdom,GBR,3,Both,23,5-14 years,1990,416,Enterobacter spp,,2,Percent,0.000498915,0.000433446,0.000573672
+6,Incidence,108,Belize,BLZ,3,Both,1,Under 5,2021,187,Influenza,,2,Percent,0.000499342,0.000172282,0.00247587
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,2019,427,Pseudomonas aeruginosa,,1,Number,0.000499944,0.000365438,0.000664406
+6,Incidence,53,Serbia,SRB,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000500535,0.000187982,0.001063551
+6,Incidence,53,Serbia,SRB,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000500535,0.000187982,0.001063551
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,2020,416,Enterobacter spp,,1,Number,0.000501017,0.000348452,0.000714972
+1,Deaths,369,Nauru,NRU,3,Both,26,70+ years,2021,190,Respiratory syncytial virus,,2,Percent,0.000501184,0.000172153,0.001660366
+6,Incidence,57,Belarus,BLR,3,Both,1,Under 5,2019,426,Polymicrobial,,2,Percent,0.00050304,0.000299598,0.000794623
+1,Deaths,367,Monaco,MCO,3,Both,1,Under 5,1990,426,Polymicrobial,,1,Number,0.000503468,0.000211439,0.00103523
+1,Deaths,95,United Kingdom,GBR,3,Both,23,5-14 years,2021,426,Polymicrobial,,2,Percent,0.000503691,0.000281358,0.000818064
+1,Deaths,83,Iceland,ISL,3,Both,23,5-14 years,2019,416,Enterobacter spp,,1,Number,0.000505228,0.000410488,0.000615521
+1,Deaths,25,Micronesia (Federated States of),FSM,3,Both,23,5-14 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000506899,0.000257299,0.000833797
+1,Deaths,25,Micronesia (Federated States of),FSM,3,Both,24,15-49 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000506899,0.000257299,0.000833797
+1,Deaths,183,Mauritius,MUS,3,Both,25,50-69 years,2021,190,Respiratory syncytial virus,,2,Percent,0.000507421,0.000256318,0.000857852
+6,Incidence,108,Belize,BLZ,3,Both,23,5-14 years,2021,187,Influenza,,2,Percent,0.000508093,0.00017444,0.002484065
+6,Incidence,108,Belize,BLZ,3,Both,24,15-49 years,2021,187,Influenza,,2,Percent,0.000508093,0.00017444,0.002484065
+1,Deaths,367,Monaco,MCO,3,Both,23,5-14 years,1990,420,Klebsiella pneumoniae,,1,Number,0.0005102,0.000377705,0.000666273
+1,Deaths,396,San Marino,SMR,3,Both,1,Under 5,1990,415,Chlamydia spp,,1,Number,0.000510692,0.000366083,0.000699717
+6,Incidence,109,Cuba,CUB,3,Both,1,Under 5,2021,187,Influenza,,2,Percent,0.000511708,0.000176118,0.002536518
+1,Deaths,396,San Marino,SMR,3,Both,23,5-14 years,2019,428,Staphylococcus aureus,,1,Number,0.000514132,0.000381302,0.000700803
+1,Deaths,367,Monaco,MCO,3,Both,24,15-49 years,1990,426,Polymicrobial,,1,Number,0.000514204,0.000291158,0.000854616
+6,Incidence,8,Taiwan (Province of China),TWN,3,Both,1,Under 5,2019,414,Acinetobacter baumannii,,2,Percent,0.000514453,0.000371377,0.000711447
+6,Incidence,10,Cambodia,KHM,3,Both,22,All Ages,2021,190,Respiratory syncytial virus,,2,Percent,0.000515707,0.00017134,0.001069969
+6,Incidence,116,Saint Lucia,LCA,3,Both,1,Under 5,2021,187,Influenza,,2,Percent,0.000516416,0.000178162,0.002559416
+6,Incidence,110,Dominica,DMA,3,Both,1,Under 5,2021,187,Influenza,,2,Percent,0.000516622,0.000178166,0.002562322
+6,Incidence,110,Dominica,DMA,3,Both,23,5-14 years,2021,187,Influenza,,2,Percent,0.000516847,0.000177336,0.002524378
