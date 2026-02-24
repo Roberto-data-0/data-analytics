@@ -1,0 +1,31 @@
+# Proyecto 1 – Limpieza y resumen de datos de hojas de cálculo
+
+## 🎯 Objetivo
+Realizar la limpieza y el resumen de un dataset en formato de hoja de cálculo para obtener información clara y confiable.
+
+## 📂 Dataset
+- Fuente: [indica si fue proporcionado por el bootcamp, descargado de Kaggle, etc.]
+- Tamaño: [ejemplo: 5,000 registros]
+- Variables principales: nombre, fecha, categoría, valores numéricos.
+
+## 🔧 Herramientas utilizadas
+- Excel avanzado / Google Sheets
+- Funciones: tablas dinámicas, filtros, fórmulas (IF, VLOOKUP, SUMIF)
+- Gráficos básicos para resumen visual
+
+## 📊 Pasos principales
+1. Eliminación de duplicados y valores nulos.
+2. Normalización de formatos de fecha y texto.
+3. Creación de tablas dinámicas para agrupar información.
+4. Generación de gráficos de resumen.
+
+## 📈 Resultados
+- Se redujo el dataset de **X registros** a **Y registros limpios**.
+- Se identificaron las categorías con mayor frecuencia.
+- Se generaron indicadores clave para la toma de decisiones.
+
+## 💡 Aprendizajes
+- Importancia de la limpieza de datos antes del análisis.
+- Cómo usar funciones avanzadas de Excel para resumir información.
+- Valor de las tablas dinámicas en la exploración inicial de datos.
+
